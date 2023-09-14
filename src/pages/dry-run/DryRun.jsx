@@ -1,6 +1,7 @@
 import styles from './DryRun.module.css';
 
 import TimeTable from './time-table/TimeTable';
+import CourseSelector from './course-selector/CourseSelector';
 
 function DryRun() {
     return (
@@ -14,7 +15,8 @@ function DryRun() {
                         <TimeTable />
                     </div>
                 </div>
-                <div className={styles['courses-selector-container']} >
+                <div className={styles['courses-selector-container']}>
+                    <CourseSelector />
                 </div>
             </div>
             
