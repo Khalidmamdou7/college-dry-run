@@ -120,7 +120,7 @@ function TimeTable() {
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
-                                        {timeslot.courseCode}
+                                        {timeslot.courseCode} - {timeslot.type}
                                     </td>
                                 </tr>
                             );
@@ -162,7 +162,7 @@ function TimeTable() {
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
-                                        {timeslot.courseCode}
+                                        {timeslot.courseCode} - {timeslot.type}
                                     </td>
                                 </tr>
                             );
@@ -205,7 +205,7 @@ function TimeTable() {
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
-                                        {timeslot.courseCode}
+                                        {timeslot.courseCode} - {timeslot.type}
                                     </td>
                                 </tr>
                             );
@@ -249,7 +249,7 @@ function TimeTable() {
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
-                                        {timeslot.courseCode}
+                                        {timeslot.courseCode} - {timeslot.type}
                                     </td>
                                 </tr>
                             );
@@ -292,7 +292,7 @@ function TimeTable() {
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
-                                        {timeslot.courseCode}
+                                        {timeslot.courseCode} - {timeslot.type}
                                     </td>
                                 </tr>
                             );
