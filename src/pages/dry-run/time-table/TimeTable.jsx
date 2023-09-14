@@ -24,7 +24,6 @@ function TimeTable(props) {
     };
     const coursesTimeslots =  props.timeslots;
     
-    // Add the courses to the timetable
 
     const daysOfWeek = ['Saturday','Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
     return (
@@ -50,17 +49,15 @@ function TimeTable(props) {
                                 {coursesTimeslots.map((timeslot) => {
                                     const courseIdentifier = `${timeslot.courseCode}-${timeslot.timeslotDay}-${timeslot.timeslotGroup}-${timeslot.timeslotFrom}-${timeslot.timeslotTo}`;
                                     const isSelected = selectedCourses.includes(courseIdentifier);
-                                    const selectedCellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                                     const isTutorial = timeslot.timslotType === 'Tutorial';
+                                    const backgroundColor = isSelected ? '#22FF22' : isTutorial ? '#c4fdff' : '#ffff01';
                                     const isHovered = hoveredCourseCode === timeslot.courseCode;
                                     const courseCellStyle = {
-                                        ...selectedCellStyle,
                                         fontSize: '10px',
                                         height: '15px',  
                                         fontWeight: 'bold',
-                                        // backgroundColor: isTutorial ? '#FAEBD7' : 'white' ,
+                                        backgroundColor: backgroundColor,
                                         border: isHovered ? '2px solid red' : 'none',
-     
                                     };
 
                                     if (timeslot.timeslotDay === day) {
