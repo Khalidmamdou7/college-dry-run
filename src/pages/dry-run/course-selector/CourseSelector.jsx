@@ -16,6 +16,8 @@ function CourseSelector(props) {
             return;
         }
         let results = await searchCourses(event.target.value);
+        // remove courses that are already selected
+        results = results.filter(course => !courses.includes(course));
         setSearchResults(results);
 
     }
@@ -25,6 +27,7 @@ function CourseSelector(props) {
             return;
         }
         setCourses([...courses, course]);
+        setSearchResults(searchResults.filter(c => c !== course));
         let timeslots = await getCoursesTimeslots([...courses, course]);
         props.handleCoursesChange(timeslots)
     }
@@ -36,34 +39,50 @@ function CourseSelector(props) {
     }
 
     return (
-        <div className={styles['courses-selector-container']}>
-            <div className={styles['courses-selector-header']}>
+        <div className={styles['container']}>
+            <div className={styles['header']}>
                 <h2>Course Selector</h2>
-                <input type="text" placeholder="Search for courses" value={search} onChange={handleSearchChange} />
-                <div className={styles['courses-selector-search-results']}>
-                    <ul>
-                        {searchResults.map(course => (
+                <input type="text" placeholder="Search for courses" value={search} onChange={handleSearchChange} className='form-control' />
+                <div className={styles['search-results']}>
+                    <table className="table table-striped table-hover">
+                        <tbody className={styles['search-results-item']}>
+                        {/* {searchResults.map(course => (
                             <li key={course.courseCode}>
                                 <p>{course.courseCode + ' ' + course.courseName}</p>
                                 <button onClick={() => handleAddCourse(course)} type="button" className='btn btn-primary'>Add</button>
                             </li>
+                        ))} */}
+                        {searchResults.map(course => (
+                            <tr>
+                                <td className={styles['search-results-item-name']}>
+                                    {course.courseCode + ' ' + course.courseName}
+                                </td>
+                                <td className={styles['search-results-item-add']}>
+                                    <button onClick={() => handleAddCourse(course)} type="button" className='btn btn-primary'>Add</button>
+                                </td>
+                            </tr>
                         ))}
+                        </tbody>
+                    </table>
 
-                    </ul>
                 </div>
             </div>
-            <div className={styles['courses-selector-content']}>
-                <div className={styles['courses-selector-list']}>
-                    {courses.map(course => (
-                        <div className={styles['courses-selector-list-item']} key={course.courseCode}>
-                            <div className={styles['courses-selector-list-item-name']}>
-                                {course.courseCode + ' ' + course.courseName}
-                            </div>
-                            <div className={styles['courses-selector-list-item-remove']}>
-                                <button onClick={() => handleRemoveCourse(course)}>Remove</button>
-                            </div>
-                        </div>
-                    ))}
+            <div className={styles['content']}>
+                <div className={styles['list']}>
+                    <table className="table table-striped table-hover">
+                        <tbody className={styles['list-item']}>
+                            {courses.map(course => (
+                                <tr>
+                                    <td className={styles['list-item-name']}>
+                                        {course.courseCode + ' ' + course.courseName}
+                                    </td>
+                                    <td className={styles['list-item-remove']}>
+                                        <button onClick={() => handleRemoveCourse(course)} type="button" className='btn btn-danger'>Remove</button>
+                                    </td>
+                                </tr>
+                            ))}
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>

@@ -1,6 +1,19 @@
-/* styles.css */
-  
-ul {
-    list-style-type: none;
-    padding: 0;
-}  
+
+.container {
+    overflow: hidden;
+    width: 100%;
+}
+
+.content,
+.search-results {
+    overflow: scroll;
+}
+
+.header {
+    width: 100%;
+}
+
+
+tr {
+    text-align: left;
+}
