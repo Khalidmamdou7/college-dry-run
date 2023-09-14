@@ -2742,10 +2742,10 @@
       "timeslotGroup": "1",
       "timslotType": "Lecture",
       "timeslotDay": "Sunday",
-      "timeslotFrom": "13:00",
-      "timeslotTo": "15:50",
-      "timeFrom8am": 5,
-      "duration": 3,
+      "timeslotFrom": "12:00",
+      "timeslotTo": "13:50",
+      "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2754,10 +2754,10 @@
       "timeslotGroup": "1",
       "timslotType": "Tutorial",
       "timeslotDay": "Monday",
-      "timeslotFrom": "16:00",
-      "timeslotTo": "17:50",
-      "timeFrom8am": 8,
-      "duration": 2,
+      "timeslotFrom": "13:00",
+      "timeslotTo": "15:50",
+      "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2765,11 +2765,11 @@
       "courseName": "Control-1",
       "timeslotGroup": "2",
       "timslotType": "Tutorial",
-      "timeslotDay": "Sunday",
+      "timeslotDay": "Monday",
       "timeslotFrom": "16:00",
-      "timeslotTo": "17:50",
+      "timeslotTo": "18:50",
       "timeFrom8am": 8,
-      "duration": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2777,11 +2777,11 @@
       "courseName": "Control-1",
       "timeslotGroup": "2",
       "timslotType": "Lecture",
-      "timeslotDay": "Monday",
-      "timeslotFrom": "13:00",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
-      "timeFrom8am": 5,
-      "duration": 3,
+      "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2873,7 +2873,7 @@
       "courseName": "Communications-2",
       "timeslotGroup": "1",
       "timslotType": "Lecture",
-      "timeslotDay": "Monday",
+      "timeslotDay": "Thursday",
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
@@ -2885,10 +2885,10 @@
       "courseName": "Communications-2",
       "timeslotGroup": "1",
       "timslotType": "Tutorial",
-      "timeslotDay": "Tuesday",
-      "timeslotFrom": "11:00",
-      "timeslotTo": "12:50",
-      "timeFrom8am": 3,
+      "timeslotDay": "Wednesday",
+      "timeslotFrom": "12:00",
+      "timeslotTo": "13:50",
+      "timeFrom8am": 4,
       "duration": 2,
       "timeslotSize": "25"
     },
@@ -5823,7 +5823,7 @@
     {
       "courseCode": "CCES280",
       "courseName": "Engineering Seminar",
-      "timeslotGroup": "2",
+      "timeslotGroup": "1",
       "timslotType": "Lecture",
       "timeslotDay": "Sunday",
       "timeslotFrom": "8:00",
@@ -6293,10 +6293,10 @@
       "courseName": "Computer Graphics and Man Machine Interfacing",
       "timeslotGroup": "1",
       "timslotType": "Lecture",
-      "timeslotDay": "Tuesday",
-      "timeslotFrom": "9:00",
-      "timeslotTo": "10:50",
-      "timeFrom8am": 1,
+      "timeslotDay": "Monday",
+      "timeslotFrom": "14:00",
+      "timeslotTo": "15:50",
+      "timeFrom8am": 6,
       "duration": 2,
       "timeslotSize": "60"
     },
@@ -6954,10 +6954,10 @@
       "timeslotGroup": "1",
       "timslotType": "Tutorial",
       "timeslotDay": "Thursday",
-      "timeslotFrom": "13:00",
-      "timeslotTo": "14:50",
-      "timeFrom8am": 5,
-      "duration": 2,
+      "timeslotFrom": "8:00",
+      "timeslotTo": "10:50",
+      "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -6966,10 +6966,10 @@
       "timeslotGroup": "2",
       "timslotType": "Tutorial",
       "timeslotDay": "Thursday",
-      "timeslotFrom": "15:00",
-      "timeslotTo": "16:50",
-      "timeFrom8am": 7,
-      "duration": 2,
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:50",
+      "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "10"
     },
     {
@@ -9394,7 +9394,7 @@
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
       "duration": 3,
-      "timeslotSize": "30"
+      "timeslotSize": "17"
     },
     {
       "courseCode": "AERN425",
@@ -9406,7 +9406,7 @@
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
       "duration": 2,
-      "timeslotSize": "30"
+      "timeslotSize": "17"
     },
     {
       "courseCode": "AEMN280",
@@ -9586,7 +9586,7 @@
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
       "duration": 2,
-      "timeslotSize": "30"
+      "timeslotSize": "17"
     },
     {
       "courseCode": "AERN321",
@@ -9598,7 +9598,7 @@
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
       "duration": 2,
-      "timeslotSize": "30"
+      "timeslotSize": "17"
     },
     {
       "courseCode": "AERN413",
@@ -9706,7 +9706,7 @@
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
       "duration": 1,
-      "timeslotSize": "30"
+      "timeslotSize": "24"
     },
     {
       "courseCode": "AERN421",
@@ -9718,7 +9718,7 @@
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
       "duration": 3,
-      "timeslotSize": "30"
+      "timeslotSize": "24"
     },
     {
       "courseCode": "AERS211",
@@ -9802,7 +9802,7 @@
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
       "duration": 2,
-      "timeslotSize": "30"
+      "timeslotSize": "17"
     },
     {
       "courseCode": "AERN331",
@@ -9814,7 +9814,7 @@
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
       "duration": 2,
-      "timeslotSize": "30"
+      "timeslotSize": "17"
     },
     {
       "courseCode": "AERN311",
@@ -11171,623 +11171,647 @@
       "timeFrom8am": 6,
       "duration": 3,
       "timeslotSize": "30"
+    },
+    {
+      "courseCode": "CMPS446",
+      "courseName": "Image Processing and Computer Vision",
+      "timeslotGroup": "2",
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "12:50",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": "45"
+    },
+    {
+      "courseCode": "CMPS446",
+      "courseName": "Image Processing and Computer Vision",
+      "timeslotGroup": "3",
+      "timslotType": "Tutorial",
+      "timeslotDay": "Monday",
+      "timeslotFrom": "8:00",
+      "timeslotTo": "10:50",
+      "timeFrom8am": 0,
+      "duration": 3,
+      "timeslotSize": "30"
     }
   ],
   "courses": [
-    { "courseCode": "CCEN380", "courseName": "Seminar-2" },
-    { "courseCode": "CHES202", "courseName": "Physical Chemistry-1" },
-    { "courseCode": "CHEN304", "courseName": "Unit Operations" },
-    { "courseCode": "MDPS241", "courseName": "Manufacturing Processes I" },
-    { "courseCode": "EEEN380", "courseName": "Seminar-2" },
-    { "courseCode": "EPES303", "courseName": "Electric Drive Systems" },
-    { "courseCode": "INTS005", "courseName": "Information Technology" },
-    { "courseCode": "IHDS307", "courseName": "Introduction to Climate Change" },
+    { "courseCode": "CCES481", "courseName": "Graduation Project-1" },
+    { "courseCode": "MDPN372", "courseName": "Control System Dynamics" },
     {
-      "courseCode": "ARCS333",
-      "courseName": "Building Technologies-3 Energy in Building Design"
+      "courseCode": "SBEN417",
+      "courseName": "Healthcare Facilities Planning and Design"
     },
-    {
-      "courseCode": "ARCS106",
-      "courseName": "Deigital Representation for Architects"
-    },
-    { "courseCode": "STRN304", "courseName": "Steel Structures Design II" },
-    { "courseCode": "MEPN403", "courseName": "Heat Exchangers Design" },
-    { "courseCode": "ELCN406", "courseName": "Communications-3" },
-    {
-      "courseCode": "MEPS305",
-      "courseName": "Applied Control Technologies for Energy System"
-    },
-    { "courseCode": "PEN410", "courseName": "Oil Well Drilling-3" },
-    { "courseCode": "WEEN480", "courseName": "Graduation Project-1" },
-    { "courseCode": "EECS203", "courseName": "Signal Analysis" },
-    { "courseCode": "EPES307", "courseName": "Electrical Measurements" },
-    { "courseCode": "SBES121", "courseName": "Medical Physics" },
-    { "courseCode": "CHES306", "courseName": "Process Control" },
-    { "courseCode": "EPES302", "courseName": "Elements of Power Systems" },
-    {
-      "courseCode": "MDPS251",
-      "courseName": "Kinematics of Machine Components"
-    },
-    { "courseCode": "MEPS219", "courseName": "Mechanical Power Engineering" },
-    {
-      "courseCode": "EECS101",
-      "courseName": "Electronics-1: Basic Electronic Circuits"
-    },
-    { "courseCode": "MDPN363", "courseName": "Finite Element Analysis" },
-    { "courseCode": "AETN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "STRN306",
-      "courseName": "Properties and Strength of Concrete II"
-    },
-    { "courseCode": "ARCS301", "courseName": "Architectural Design-4" },
-    { "courseCode": "MDPN262", "courseName": "Mechanics of Solids" },
-    {
-      "courseCode": "ARCS334",
-      "courseName": "Selected Topics in Architecture and Urban Design"
-    },
-    {
-      "courseCode": "MDPN476",
-      "courseName": "Mobile Robotics and Autonomous Systems"
-    },
-    { "courseCode": "PPCN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "EECS306",
-      "courseName": "Communications-1: Analogue Communications"
-    },
-    {
-      "courseCode": "CHEN403",
-      "courseName": "Chemical Reactor and Vessel Design"
-    },
-    {
-      "courseCode": "SBEN454",
-      "courseName": "Data Mining and Machine Learning in Healthcare"
-    },
-    { "courseCode": "STRS301", "courseName": "Reinforced Concrete Design I" },
-    { "courseCode": "ARCS205", "courseName": "Building Technologies-1" },
-    { "courseCode": "GENS206", "courseName": "Technical Writing in Arabic" },
-    { "courseCode": "GENS202", "courseName": "Advanced Critical Thinking" },
-    {
-      "courseCode": "PHYS001",
-      "courseName": "Mechanical Properties of Matter and Thermodynamics"
-    },
-    {
-      "courseCode": "IHDN352",
-      "courseName": "Non-Conventional Water Resources"
-    },
-    {
-      "courseCode": "AERN331",
-      "courseName": "Introduction to Composite materials"
-    },
-    { "courseCode": "GENS209", "courseName": "Selections of Life Long Skills" },
-    { "courseCode": "MTHS114", "courseName": "Numerical Analysis" },
-    {
-      "courseCode": "AERS212",
-      "courseName": "Materials Science for Engineering"
-    },
-    {
-      "courseCode": "IHDS309",
-      "courseName": "Water Chemistry and Microbiology"
-    },
-    { "courseCode": "EPMN413", "courseName": "Energy Conservation" },
-    {
-      "courseCode": "PEN405",
-      "courseName": "Petroleum Legislations and Economics"
-    },
-    { "courseCode": "EPES421", "courseName": "Electrical Machines Drives" },
-    { "courseCode": "METN401", "courseName": "Electrochemistry and Corrosion" },
-    { "courseCode": "WEES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "MTHS002", "courseName": "Calculus I" },
-    {
-      "courseCode": "AERN421",
-      "courseName": "Aircraft Maintenance Systems Engineering"
-    },
-    { "courseCode": "EEES482", "courseName": "Graduation Project-2" },
-    {
-      "courseCode": "AERN321",
-      "courseName": "Hydraulic and Pneumatic Systems"
-    },
-    { "courseCode": "CMPS201", "courseName": "Microprocessor Systems" },
-    {
-      "courseCode": "STRS324",
-      "courseName": "Construction Project Management"
-    },
-    {
-      "courseCode": "AERN215",
-      "courseName": "Engineering Standards and Specifications"
-    },
-    {
-      "courseCode": "ARCS216",
-      "courseName": "Introduction to Cad System for Civil Engineering"
-    },
-    { "courseCode": "SBES131", "courseName": "Clinical Engineering" },
-    { "courseCode": "AERN413", "courseName": "Aircraft Engine Systems" },
-    {
-      "courseCode": "GENN201",
-      "courseName": "Communication and Presentation Skills"
-    },
-    { "courseCode": "ARCS202", "courseName": "Building Construction-1" },
-    { "courseCode": "ARCS380", "courseName": "Architecture and Design Theory" },
     {
       "courseCode": "SBEN419",
       "courseName": "Operations Research in Healthcare"
     },
-    { "courseCode": "EPES427", "courseName": "Intelligent Control" },
-    { "courseCode": "EECS102", "courseName": "Circuits-1" },
-    { "courseCode": "MEPN446", "courseName": "Turbo-machinery-II" },
-    { "courseCode": "PEN409", "courseName": "Well Stimulation" },
-    {
-      "courseCode": "EPES201",
-      "courseName": "Electrical Engineering Fundamentals"
-    },
-    { "courseCode": "MDPN468", "courseName": "Quality Engineering" },
-    {
-      "courseCode": "MEPN421",
-      "courseName": "Air Conditioning Design, Selection, Operation and Trouble shooting"
-    },
-    { "courseCode": "CMPS303", "courseName": "Operating Systems" },
-    {
-      "courseCode": "CVEN361",
-      "courseName": "Special Topics in Civil Engineering"
-    },
-    {
-      "courseCode": "GENS120",
-      "courseName": "Fundamentals of Economics and Accounting"
-    },
-    { "courseCode": "EPES416", "courseName": "Power Stations" },
-    { "courseCode": "ARCS302", "courseName": "Building Construction-2" },
-    { "courseCode": "MDPN331", "courseName": "Engineering Operation Research" },
-    { "courseCode": "CHES201", "courseName": "Fluid Mechanics" },
-    {
-      "courseCode": "STRN433",
-      "courseName": "Structural Mechanics and Stability"
-    },
-    { "courseCode": "EPMN303", "courseName": "Industrial Instrumentation" },
-    { "courseCode": "CIEN480", "courseName": "Graduation Project-1" },
-    { "courseCode": "AERN312", "courseName": "Aircraft Structures" },
-    { "courseCode": "MDPN372", "courseName": "Control System Dynamics" },
-    { "courseCode": "MDPN354", "courseName": "Machine Design II" },
-    { "courseCode": "CHES301", "courseName": "Unit Operations" },
-    { "courseCode": "PES301", "courseName": "Reservoir Engineering" },
-    {
-      "courseCode": "IHDN403",
-      "courseName": "Field Measurements and Water Quality Aspects"
-    },
-    {
-      "courseCode": "CHEN406",
-      "courseName": "Advanced Statistics for Petrochemical Industries"
-    },
-    { "courseCode": "GENS203", "courseName": "Entrepreneurship" },
-    {
-      "courseCode": "SBES161",
-      "courseName": "Medical Monitors & Life Support Equipment"
-    },
-    { "courseCode": "AERN211", "courseName": "Gas Dynamics" },
-    { "courseCode": "EPES301", "courseName": "Electrical Machines-1" },
-    {
-      "courseCode": "SBEN226",
-      "courseName": "Medical Monitors & Life Support Equipment"
-    },
-    {
-      "courseCode": "MEPN416",
-      "courseName": "Air and Water Pollution and Quality Monitoring"
-    },
-    { "courseCode": "PBWN301", "courseName": "Highway Engineering" },
-    {
-      "courseCode": "GENS009",
-      "courseName": "Introduction to Design Thinking"
-    },
-    { "courseCode": "CVES125", "courseName": "Civil Engineering" },
-    { "courseCode": "MEPN444", "courseName": "Energy Efficiency" },
-    {
-      "courseCode": "SBES122",
-      "courseName": "Anatomy & Physiology for Engineers"
-    },
-    { "courseCode": "MCNS202", "courseName": "Fluid Mechanics" },
-    { "courseCode": "PEN302", "courseName": "Reservoir Engineering-1" },
-    { "courseCode": "AEMN280", "courseName": "Engineering Seminar" },
-    { "courseCode": "CMPS456", "courseName": "Mobile robotics" },
-    { "courseCode": "SBES153", "courseName": "Biomedical Transducers" },
-    {
-      "courseCode": "STRS111",
-      "courseName": "Structural Analysis-1 and mechanics of materials"
-    },
-    {
-      "courseCode": "STRN452",
-      "courseName": "Information Technology in Construction"
-    },
-    {
-      "courseCode": "EMCS201",
-      "courseName": "Engineering Mechanics-3-Rigid Body Dynamics"
-    },
-    { "courseCode": "MCNN327", "courseName": "Heat and Mass Transfer" },
-    { "courseCode": "MTHS004", "courseName": "Discrete Mathematics" },
-    { "courseCode": "CCES280", "courseName": "Engineering Seminar" },
-    {
-      "courseCode": "CHEN301",
-      "courseName": "Mass Transfer and Separation Processes-1"
-    },
-    {
-      "courseCode": "CHES210",
-      "courseName": "Data Science in Chemical Engineering"
-    },
-    { "courseCode": "ARCS351", "courseName": "Art, Creativity and Design" },
-    { "courseCode": "ARCS206", "courseName": "Architectural Design-2" },
-    {
-      "courseCode": "MTHS102",
-      "courseName": "Linear Algebra and Multivariable Integrals"
-    },
-    { "courseCode": "PBWN302", "courseName": "Soil Mechanics" },
-    { "courseCode": "GENS208", "courseName": "Marketing" },
-    { "courseCode": "STEN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "CHEN302",
-      "courseName": "Instrumentation and Process Control"
-    },
-    { "courseCode": "MDPN479", "courseName": "Special Topics in Mechatronics" },
-    { "courseCode": "STRS215", "courseName": "Enginering Computations" },
+    { "courseCode": "METN401", "courseName": "Electrochemistry and Corrosion" },
     {
       "courseCode": "STRS321",
       "courseName": "Economic Strategies in Construction Industry"
     },
-    { "courseCode": "CMPS402", "courseName": "Machine Intelligence" },
+    { "courseCode": "EPES416", "courseName": "Power Stations" },
+    { "courseCode": "STEN280", "courseName": "Engineering Seminar" },
+    { "courseCode": "MDPN321", "courseName": "Machine Design" },
+    { "courseCode": "MEPN444", "courseName": "Energy Efficiency" },
+    { "courseCode": "MDPN331", "courseName": "Engineering Operation Research" },
+    { "courseCode": "SBES152", "courseName": "Biomedical Signal Processing" },
     {
-      "courseCode": "EECS201",
-      "courseName": "Electronics-2: Analog and Digital Electronics"
+      "courseCode": "AERN425",
+      "courseName": "Airline Operation and Management"
     },
-    { "courseCode": "INTS001", "courseName": "Engineering Graphics" },
-    { "courseCode": "STRN444", "courseName": "Special Concrete Structures" },
-    { "courseCode": "PHYS002", "courseName": "Electricity and Magnetism" },
-    { "courseCode": "MEPN433", "courseName": "Laboratory of Energy Systems." },
-    { "courseCode": "STRN441", "courseName": "Reinforced Concrete Design III" },
-    { "courseCode": "MCNN326", "courseName": "Heat Transfer" },
+    { "courseCode": "CHEN401", "courseName": "Petroleum Refining Engineering" },
+    { "courseCode": "STRS302", "courseName": "Steel Structures Design I" },
+    {
+      "courseCode": "STRN452",
+      "courseName": "Information Technology in Construction"
+    },
+    { "courseCode": "CHES306", "courseName": "Process Control" },
+    {
+      "courseCode": "EPES201",
+      "courseName": "Electrical Engineering Fundamentals"
+    },
     {
       "courseCode": "PES201",
       "courseName": "Introduction to Petroleum Industry"
     },
-    { "courseCode": "EEES481", "courseName": "Graduation Project-1" },
-    { "courseCode": "MDPN474", "courseName": "Automatic Control II" },
-    { "courseCode": "CHES001", "courseName": "Chemistry for Engineers" },
-    { "courseCode": "EPES417", "courseName": "Renewable Energy Systems" },
-    { "courseCode": "SBEN445", "courseName": "Assistive Technologies" },
-    { "courseCode": "MTHS104", "courseName": "Differential Equations" },
-    {
-      "courseCode": "INTS125",
-      "courseName": "Introduction to Mechanical Engineering"
-    },
-    { "courseCode": "PES202", "courseName": "General Geology" },
-    { "courseCode": "EPES125", "courseName": "Electrical Power Engineering" },
-    {
-      "courseCode": "IHDS301",
-      "courseName": "Introduction to Water Resources Engineering"
-    },
-    {
-      "courseCode": "SBES120",
-      "courseName": "Introduction to Biomedical Engineering"
-    },
-    { "courseCode": "CMPS102", "courseName": "Programming Techniques" },
-    {
-      "courseCode": "SBEN328",
-      "courseName": "Medical Standards and Accreditations"
-    },
-    { "courseCode": "AERN216", "courseName": "Aviation Economics" },
-    { "courseCode": "EPES404", "courseName": "Digital Control Systems" },
-    {
-      "courseCode": "AERN418",
-      "courseName": "Introduction to Microcontroller"
-    },
-    { "courseCode": "ARCS208", "courseName": "Site Planning and Development" },
-    { "courseCode": "EPES406", "courseName": "High Voltage Technology" },
-    { "courseCode": "SBES152", "courseName": "Biomedical Signal Processing" },
-    { "courseCode": "MDPS242", "courseName": "Manufacturing Processes II" },
-    { "courseCode": "STRS204", "courseName": "Mechanics of Materials" },
-    { "courseCode": "EEES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "GENS210", "courseName": "Scientific Research Methods" },
-    { "courseCode": "CEMN280", "courseName": "Engineering Seminar" },
-    { "courseCode": "ARCS440", "courseName": "Landscape Architecture" },
-    { "courseCode": "EPES203", "courseName": "Electromagnetic Fields" },
-    { "courseCode": "MDES280", "courseName": "Engineering Seminar" },
-    {
-      "courseCode": "ARCS105",
-      "courseName": "Introduction to Building Construction and Environmental Design"
-    },
-    { "courseCode": "INTS201", "courseName": "Electrical Engineering" },
-    { "courseCode": "EPES306", "courseName": "Power Electronics (1)" },
-    { "courseCode": "SEEN480", "courseName": "Graduation Project (I)" },
-    { "courseCode": "EPES200", "courseName": "Basic Laboratory" },
-    { "courseCode": "SEEN280", "courseName": "Engineering Seminar" },
-    { "courseCode": "MDPS352", "courseName": "Machine Design" },
-    {
-      "courseCode": "PBWN407",
-      "courseName": "Advanced Water and Wastewater Treatment Technologies"
-    },
-    {
-      "courseCode": "MTHS005",
-      "courseName": "Introduction to Probability and Statistics"
-    },
-    {
-      "courseCode": "SBEN466",
-      "courseName": "Business Process Mining and Enterprise Architecture"
-    },
-    { "courseCode": "MDPN473", "courseName": "Automatic Control I" },
-    { "courseCode": "MDPN424", "courseName": "Project Management" },
-    { "courseCode": "CMPS302", "courseName": "Algorithms Design and Analysis" },
-    { "courseCode": "STEN280", "courseName": "Engineering Seminar" },
-    { "courseCode": "GENS235", "courseName": "Business Communication" },
-    { "courseCode": "PEN404", "courseName": "Well Logging" },
-    { "courseCode": "MDPN410", "courseName": "Mechanical Design Lab" },
-    { "courseCode": "CMPS103", "courseName": "Data Structures and Algorithms" },
-    { "courseCode": "EPES304", "courseName": "Electrical Machines-2" },
-    { "courseCode": "PBWN303", "courseName": "Foundations" },
-    { "courseCode": "MDPN457", "courseName": "Fluid Power Systems" },
-    { "courseCode": "STRN422", "courseName": "Cost Engineering" },
-    {
-      "courseCode": "STRN461",
-      "courseName": "Special Topics in Structural Engineering"
-    },
-    { "courseCode": "CMPS454", "courseName": "Natural Language Processing" },
-    {
-      "courseCode": "STRN325",
-      "courseName": "Construction Methods & Equipment"
-    },
-    { "courseCode": "CMPN425", "courseName": "Computer System Consultation" },
     { "courseCode": "CMPS401", "courseName": "Advanced Database Systems" },
-    { "courseCode": "EPES403", "courseName": "Power System Protection" },
-    { "courseCode": "ARCS432", "courseName": "Geometric Modeling" },
-    { "courseCode": "STRN341", "courseName": "Masonry Structures" },
-    { "courseCode": "CMPS405", "courseName": "Computer Networks-1" },
-    { "courseCode": "STRS101", "courseName": "Structural Analysis-1" },
-    { "courseCode": "EPES424", "courseName": "Mechatronics" },
-    { "courseCode": "MCNS101", "courseName": "Thermodynamics" },
+    { "courseCode": "MDPN262", "courseName": "Mechanics of Solids" },
+    { "courseCode": "CMPS102", "courseName": "Programming Techniques" },
+    { "courseCode": "EPES308", "courseName": "Automatic Control Systems" },
+    { "courseCode": "PES202", "courseName": "General Geology" },
+    { "courseCode": "MTHS114", "courseName": "Numerical Analysis" },
+    { "courseCode": "CHES001", "courseName": "Chemistry for Engineers" },
     {
-      "courseCode": "CMPS205",
-      "courseName": "Computer Graphics and Man Machine Interfacing"
+      "courseCode": "MDPN476",
+      "courseName": "Mobile Robotics and Autonomous Systems"
     },
-    { "courseCode": "GENN380", "courseName": "Thesis Writing for GP" },
-    { "courseCode": "STRS302", "courseName": "Steel Structures Design I" },
-    {
-      "courseCode": "CHES402",
-      "courseName": "Petrochemicals from Oil and Gas"
-    },
-    { "courseCode": "IHDN401", "courseName": "Coastal and Harbor Engineering" },
+    { "courseCode": "AERS213", "courseName": "Fundamentals of Thermodynamics" },
+    { "courseCode": "EPES307", "courseName": "Electrical Measurements" },
+    { "courseCode": "MEPN472", "courseName": "Automatic Control" },
+    { "courseCode": "EPES414", "courseName": "Smart Power Grid" },
+    { "courseCode": "ARCS302", "courseName": "Building Construction-2" },
     {
       "courseCode": "CMPS446",
       "courseName": "Image Processing and Computer Vision"
     },
-    {
-      "courseCode": "STRN465",
-      "courseName": "Inspection and Maintenance of Structures"
-    },
-    { "courseCode": "CHES101", "courseName": "Organic Chemistry-1" },
-    { "courseCode": "EECS316", "courseName": "Communications-2" },
+    { "courseCode": "PHYS102", "courseName": "Modern Physics" },
     {
       "courseCode": "MEPS203",
       "courseName": "Fundamentals of Combustion Systems"
     },
-    { "courseCode": "AERN212", "courseName": "Analysis of Structures" },
-    { "courseCode": "STRS205", "courseName": "Human Resources Management" },
-    { "courseCode": "MDEN481", "courseName": "Graduation Project-2" },
-    { "courseCode": "IHDS201", "courseName": "Fluid Mechanics" },
-    {
-      "courseCode": "GENN210",
-      "courseName": "Risk Management and Environment"
-    },
-    { "courseCode": "MDPS261", "courseName": "Stress Analysis" },
-    { "courseCode": "MDPN467", "courseName": "Production Management" },
-    {
-      "courseCode": "CHEN402",
-      "courseName": "Petrochemicals from Oil and Gas"
-    },
-    { "courseCode": "MDPN362", "courseName": "Operation research I" },
-    { "courseCode": "MDPN321", "courseName": "Machine Design" },
-    {
-      "courseCode": "SBEN428",
-      "courseName": "Advanced Topics in Medical Standards and Accreditations"
-    },
-    { "courseCode": "STRS203", "courseName": "Engineering Materials" },
-    {
-      "courseCode": "CMPS407",
-      "courseName": "Computer Modeling and Simulations"
-    },
-    { "courseCode": "CEMN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "MDPN361",
-      "courseName": "Engineering Economy and Cost Accounting"
-    },
-    {
-      "courseCode": "STRN408",
-      "courseName": "Structural Dynamics and Vibrations"
-    },
-    { "courseCode": "SBEN416", "courseName": "Medical Imaging Modalities" },
-    { "courseCode": "MDPS132", "courseName": "Materials Science" },
-    { "courseCode": "AEMN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "AERN311",
-      "courseName": "Aircraft Performance and Stability"
-    },
-    { "courseCode": "CHEN202", "courseName": "Fluid Mechanics" },
-    { "courseCode": "MEPN412", "courseName": "Energy Storage" },
-    {
-      "courseCode": "PEN301",
-      "courseName": "Petroleum Exploration Engineering"
-    },
-    {
-      "courseCode": "MDPN461",
-      "courseName": "Computer Integrated Manufacturing CIM"
-    },
-    { "courseCode": "IHDN302", "courseName": "Irrigation Design Works-1" },
-    {
-      "courseCode": "SBES130",
-      "courseName": "Basics of Computer Architecture"
-    },
-    { "courseCode": "EPES308", "courseName": "Automatic Control Systems" },
-    {
-      "courseCode": "EMCS001",
-      "courseName": "Engineering Mechanics- Dynamics"
-    },
-    { "courseCode": "STRN423", "courseName": "Financial Management" },
-    { "courseCode": "ARCS307", "courseName": "Architectural Design-5" },
-    {
-      "courseCode": "EECS202",
-      "courseName": "Operational Amplifiers circuits and applications"
-    },
-    { "courseCode": "GENS205", "courseName": "Advanced Risk Management" },
-    { "courseCode": "EECS205", "courseName": "Electromagnetics-1" },
+    { "courseCode": "MTHS004", "courseName": "Discrete Mathematics" },
     {
       "courseCode": "STRN428",
       "courseName": "Introduction to construction Contracts and Contract Administration"
     },
+    { "courseCode": "WEEN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "GENS341", "courseName": "Operation Research" },
+    { "courseCode": "EPES203", "courseName": "Electromagnetic Fields" },
+    { "courseCode": "ARCS432", "courseName": "Geometric Modeling" },
+    { "courseCode": "MDPN470", "courseName": "Mechatronics Lab" },
+    { "courseCode": "PES301", "courseName": "Reservoir Engineering" },
+    { "courseCode": "AERN413", "courseName": "Aircraft Engine Systems" },
+    {
+      "courseCode": "MDPN461",
+      "courseName": "Computer Integrated Manufacturing CIM"
+    },
+    { "courseCode": "CHES301", "courseName": "Unit Operations" },
+    { "courseCode": "AERN211", "courseName": "Gas Dynamics" },
     { "courseCode": "STRN445", "courseName": "Steel Structures Design III" },
-    { "courseCode": "EECS304", "courseName": "Control-1" },
-    { "courseCode": "MEPN472", "courseName": "Automatic Control" },
+    { "courseCode": "ARCS205", "courseName": "Building Technologies-1" },
     {
-      "courseCode": "GENN401",
-      "courseName": "Project Planning, Implementation and Economics"
+      "courseCode": "AERS212",
+      "courseName": "Materials Science for Engineering"
     },
-    { "courseCode": "ELCS103", "courseName": "Circuit Analysis" },
-    { "courseCode": "MEPN415", "courseName": "Power Generation" },
+    { "courseCode": "EECS102", "courseName": "Circuits-1" },
+    { "courseCode": "ARCS107", "courseName": "Architectural Design-2" },
+    { "courseCode": "STEN480", "courseName": "Graduation Project-1" },
     {
-      "courseCode": "CMPS202",
-      "courseName": "Introduction to Database Management Systems"
+      "courseCode": "IHDS301",
+      "courseName": "Introduction to Water Resources Engineering"
     },
+    { "courseCode": "GENS001", "courseName": "Critical and Creative Thinking" },
+    { "courseCode": "MDPN410", "courseName": "Mechanical Design Lab" },
+    { "courseCode": "MEPN433", "courseName": "Laboratory of Energy Systems." },
+    { "courseCode": "STRN303", "courseName": "Reinforced Concrete Design II" },
+    { "courseCode": "ARCS402", "courseName": "Building Construction-4" },
     {
-      "courseCode": "GENS110",
-      "courseName": "Fundamentals of Management, Risk & Environment"
+      "courseCode": "MDPN361",
+      "courseName": "Engineering Economy and Cost Accounting"
     },
-    { "courseCode": "SBEN316", "courseName": "Medical Device Technologies" },
+    { "courseCode": "CEMN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "CMPS402", "courseName": "Machine Intelligence" },
+    { "courseCode": "STRN341", "courseName": "Masonry Structures" },
     {
-      "courseCode": "AETS280",
-      "courseName": "Engineering Seminar- Introduction to Arch Theory"
-    },
-    {
-      "courseCode": "PBWN445",
-      "courseName": "GIS and Remote Sensing Applications"
+      "courseCode": "CHEN302",
+      "courseName": "Instrumentation and Process Control"
     },
     {
       "courseCode": "ARCS101",
       "courseName": "Introduction to the History of Architecture"
     },
-    { "courseCode": "CCES481", "courseName": "Graduation Project-1" },
+    { "courseCode": "ARCS380", "courseName": "Architecture and Design Theory" },
+    { "courseCode": "EEES482", "courseName": "Graduation Project-2" },
     {
-      "courseCode": "CMPS111",
-      "courseName": "Advanced Logic Design and Testing"
+      "courseCode": "ARCS308",
+      "courseName": "Architectural Acoustics and Day-lighting"
     },
     {
-      "courseCode": "PBWN201",
-      "courseName": "Water and Waste Water Engineering"
+      "courseCode": "STRN306",
+      "courseName": "Properties and Strength of Concrete II"
     },
-    { "courseCode": "STRN449", "courseName": "Organization Management" },
+    { "courseCode": "INTS201", "courseName": "Electrical Engineering" },
     {
-      "courseCode": "SBES150",
-      "courseName": "Database Systems for Medical Data"
+      "courseCode": "PBWN446",
+      "courseName": "Deep Excavation and Side Support"
     },
-    { "courseCode": "MDPS133", "courseName": "Materials for Mechatronics" },
-    { "courseCode": "ARCS402", "courseName": "Building Construction-4" },
-    { "courseCode": "CHES305", "courseName": "Chemical Reactor Design" },
+    { "courseCode": "EPES425", "courseName": "Process Control and Robotics" },
+    { "courseCode": "MDPN479", "courseName": "Special Topics in Mechatronics" },
+    { "courseCode": "SBEN416", "courseName": "Medical Imaging Modalities" },
+    { "courseCode": "GENN380", "courseName": "Thesis Writing for GP" },
+    { "courseCode": "IEMN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "WEES280", "courseName": "Engineering Seminar" },
     {
-      "courseCode": "GENS237",
-      "courseName": "Ethics & Legislation In Construction Industry"
+      "courseCode": "PEN405",
+      "courseName": "Petroleum Legislations and Economics"
     },
+    {
+      "courseCode": "SBES120",
+      "courseName": "Introduction to Biomedical Engineering"
+    },
+    { "courseCode": "GENS235", "courseName": "Business Communication" },
+    { "courseCode": "EPES405", "courseName": "Power Electronics (2)" },
+    { "courseCode": "MCNN326", "courseName": "Heat Transfer" },
+    { "courseCode": "MEPN404", "courseName": "Nuclear Energy" },
+    { "courseCode": "ELCS103", "courseName": "Circuit Analysis" },
+    { "courseCode": "IHDS307", "courseName": "Introduction to Climate Change" },
+    { "courseCode": "STRN423", "courseName": "Financial Management" },
+    { "courseCode": "MEPN446", "courseName": "Turbo-machinery-II" },
+    { "courseCode": "IHDS201", "courseName": "Fluid Mechanics" },
+    { "courseCode": "ARCS406", "courseName": "Architectural Design-6" },
+    { "courseCode": "SBES131", "courseName": "Clinical Engineering" },
+    { "courseCode": "CMPS302", "courseName": "Algorithms Design and Analysis" },
+    {
+      "courseCode": "STRN325",
+      "courseName": "Construction Methods & Equipment"
+    },
+    { "courseCode": "MCNS202", "courseName": "Fluid Mechanics" },
     { "courseCode": "EPES311", "courseName": "Microprocessors Applications" },
     {
       "courseCode": "GENS004",
       "courseName": "Proficiency and Capacity Building"
     },
     {
-      "courseCode": "ARCS308",
-      "courseName": "Architectural Acoustics and Day-lighting"
+      "courseCode": "GENN401",
+      "courseName": "Project Planning, Implementation and Economics"
     },
-    { "courseCode": "PHYS102", "courseName": "Modern Physics" },
-    { "courseCode": "MDPN471", "courseName": "Mechanical Vibrations" },
-    { "courseCode": "EPES414", "courseName": "Smart Power Grid" },
+    { "courseCode": "GENS206", "courseName": "Technical Writing in Arabic" },
+    {
+      "courseCode": "SBEN325",
+      "courseName": "Biomedical Systems Modeling & Simulation"
+    },
+    {
+      "courseCode": "STRN345",
+      "courseName": "Infrastructure Asset Management"
+    },
+    { "courseCode": "STRS203", "courseName": "Engineering Materials" },
+    {
+      "courseCode": "ARCS105",
+      "courseName": "Introduction to Building Construction and Environmental Design"
+    },
+    { "courseCode": "EECS316", "courseName": "Communications-2" },
+    {
+      "courseCode": "GENS237",
+      "courseName": "Ethics & Legislation In Construction Industry"
+    },
+    { "courseCode": "CCEN380", "courseName": "Seminar-2" },
+    { "courseCode": "PBWN301", "courseName": "Highway Engineering" },
+    { "courseCode": "EECS205", "courseName": "Electromagnetics-1" },
+    { "courseCode": "GENS210", "courseName": "Scientific Research Methods" },
+    { "courseCode": "CMPS103", "courseName": "Data Structures and Algorithms" },
+    { "courseCode": "AERS211", "courseName": "Fluid Mechanics" },
+    { "courseCode": "EPES301", "courseName": "Electrical Machines-1" },
+    { "courseCode": "AERN313", "courseName": "Aircraft Engine Performance" },
+    {
+      "courseCode": "SBEN328",
+      "courseName": "Medical Standards and Accreditations"
+    },
+    { "courseCode": "GENS203", "courseName": "Entrepreneurship" },
+    {
+      "courseCode": "AERN418",
+      "courseName": "Introduction to Microcontroller"
+    },
+    { "courseCode": "MDPN424", "courseName": "Project Management" },
+    {
+      "courseCode": "SBEN454",
+      "courseName": "Data Mining and Machine Learning in Healthcare"
+    },
+    {
+      "courseCode": "CMPS111",
+      "courseName": "Advanced Logic Design and Testing"
+    },
+    { "courseCode": "STRS215", "courseName": "Enginering Computations" },
+    { "courseCode": "EEEN380", "courseName": "Seminar-2" },
     {
       "courseCode": "SBES151",
       "courseName": "Measurements & Quantitative Experimentation"
     },
     {
-      "courseCode": "MDPN469",
-      "courseName": "Systems Modelling and Simulation"
+      "courseCode": "ARCS333",
+      "courseName": "Building Technologies-3 Energy in Building Design"
     },
-    { "courseCode": "MDPN470", "courseName": "Mechatronics Lab" },
-    { "courseCode": "ARCS107", "courseName": "Architectural Design-2" },
     {
-      "courseCode": "PBWN446",
-      "courseName": "Deep Excavation and Side Support"
+      "courseCode": "STRS324",
+      "courseName": "Construction Project Management"
     },
-    { "courseCode": "STEN481", "courseName": "Graduation Project-2" },
+    { "courseCode": "CVES125", "courseName": "Civil Engineering" },
     {
-      "courseCode": "MEPS231",
-      "courseName": "Laboratory of Mechanical Engineering"
-    },
-    { "courseCode": "PEN403", "courseName": "Natural Gas Engineering-2" },
-    {
-      "courseCode": "SBEN417",
-      "courseName": "Healthcare Facilities Planning and Design"
-    },
-    { "courseCode": "SBEN315", "courseName": "Quantitative Management" },
-    { "courseCode": "EPES425", "courseName": "Process Control and Robotics" },
-    { "courseCode": "ARCS406", "courseName": "Architectural Design-6" },
-    { "courseCode": "IHDS204", "courseName": "Civil Engineering Drawing" },
-    {
-      "courseCode": "SBEN325",
-      "courseName": "Biomedical Systems Modeling & Simulation"
+      "courseCode": "IHDN352",
+      "courseName": "Non-Conventional Water Resources"
     },
     { "courseCode": "GENS236", "courseName": "Service Management" },
+    { "courseCode": "STRN444", "courseName": "Special Concrete Structures" },
+    { "courseCode": "ARCS206", "courseName": "Architectural Design-2" },
     {
-      "courseCode": "MDPN332",
-      "courseName": "Computer Aided Design and Manufacturing"
+      "courseCode": "ARCS334",
+      "courseName": "Selected Topics in Architecture and Urban Design"
     },
-    { "courseCode": "CHEN401", "courseName": "Petroleum Refining Engineering" },
-    { "courseCode": "STRS312", "courseName": "Steel Structures" },
-    { "courseCode": "SBEN311", "courseName": "Biomedical Signal Processing" },
+    { "courseCode": "IHDN401", "courseName": "Coastal and Harbor Engineering" },
+    { "courseCode": "SBEN445", "courseName": "Assistive Technologies" },
+    { "courseCode": "EEES280", "courseName": "Engineering Seminar" },
+    { "courseCode": "EECS100", "courseName": "Laboratory" },
     {
-      "courseCode": "ARCS335",
-      "courseName": "Community Design and Social Development"
+      "courseCode": "PBWN407",
+      "courseName": "Advanced Water and Wastewater Treatment Technologies"
     },
-    { "courseCode": "EPES204", "courseName": "Energy Conversion" },
-    { "courseCode": "IEMN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "EPES302", "courseName": "Elements of Power Systems" },
+    { "courseCode": "STRS205", "courseName": "Human Resources Management" },
     {
-      "courseCode": "STRN345",
-      "courseName": "Infrastructure Asset Management"
+      "courseCode": "EECS306",
+      "courseName": "Communications-1: Analogue Communications"
     },
-    { "courseCode": "AERN313", "courseName": "Aircraft Engine Performance" },
+    { "courseCode": "PBWN303", "courseName": "Foundations" },
+    { "courseCode": "SBES153", "courseName": "Biomedical Transducers" },
+    { "courseCode": "EPES303", "courseName": "Electric Drive Systems" },
+    { "courseCode": "MDES280", "courseName": "Engineering Seminar" },
+    { "courseCode": "IHDN305", "courseName": "Applied Hydrology" },
+    { "courseCode": "MTHS104", "courseName": "Differential Equations" },
     {
-      "courseCode": "INTN205",
-      "courseName": "Mechanical and Electrical Systems"
+      "courseCode": "MEPS305",
+      "courseName": "Applied Control Technologies for Energy System"
     },
+    {
+      "courseCode": "ARCS106",
+      "courseName": "Deigital Representation for Architects"
+    },
+    { "courseCode": "CHEN202", "courseName": "Fluid Mechanics" },
+    { "courseCode": "STRS204", "courseName": "Mechanics of Materials" },
+    { "courseCode": "MDPS242", "courseName": "Manufacturing Processes II" },
+    { "courseCode": "AETN480", "courseName": "Graduation Project-1" },
+    {
+      "courseCode": "AERN331",
+      "courseName": "Introduction to Composite materials"
+    },
+    { "courseCode": "INTS005", "courseName": "Information Technology" },
+    { "courseCode": "PBWN302", "courseName": "Soil Mechanics" },
+    {
+      "courseCode": "GENN210",
+      "courseName": "Risk Management and Environment"
+    },
+    { "courseCode": "EECS203", "courseName": "Signal Analysis" },
+    { "courseCode": "EPES403", "courseName": "Power System Protection" },
     {
       "courseCode": "STRN322",
       "courseName": "Construction Planning and Scheduling"
     },
+    { "courseCode": "MDPS352", "courseName": "Machine Design" },
+    {
+      "courseCode": "SBES150",
+      "courseName": "Database Systems for Medical Data"
+    },
+    { "courseCode": "MCNS101", "courseName": "Thermodynamics" },
+    {
+      "courseCode": "SBEN466",
+      "courseName": "Business Process Mining and Enterprise Architecture"
+    },
+    { "courseCode": "MDPS241", "courseName": "Manufacturing Processes I" },
+    {
+      "courseCode": "MEPS231",
+      "courseName": "Laboratory of Mechanical Engineering"
+    },
+    {
+      "courseCode": "PHYS001",
+      "courseName": "Mechanical Properties of Matter and Thermodynamics"
+    },
+    {
+      "courseCode": "INTS125",
+      "courseName": "Introduction to Mechanical Engineering"
+    },
+    { "courseCode": "ARCS440", "courseName": "Landscape Architecture" },
+    {
+      "courseCode": "ARCS216",
+      "courseName": "Introduction to Cad System for Civil Engineering"
+    },
+    { "courseCode": "CMPS405", "courseName": "Computer Networks-1" },
+    { "courseCode": "STRS301", "courseName": "Reinforced Concrete Design I" },
+    { "courseCode": "ARCS202", "courseName": "Building Construction-1" },
+    { "courseCode": "STRN441", "courseName": "Reinforced Concrete Design III" },
+    {
+      "courseCode": "SBES130",
+      "courseName": "Basics of Computer Architecture"
+    },
+    {
+      "courseCode": "STRS111",
+      "courseName": "Structural Analysis-1 and mechanics of materials"
+    },
+    {
+      "courseCode": "MEPN416",
+      "courseName": "Air and Water Pollution and Quality Monitoring"
+    },
+    {
+      "courseCode": "SBES122",
+      "courseName": "Anatomy & Physiology for Engineers"
+    },
+    { "courseCode": "SBES121", "courseName": "Medical Physics" },
+    {
+      "courseCode": "CHEN301",
+      "courseName": "Mass Transfer and Separation Processes-1"
+    },
+    {
+      "courseCode": "MTHS005",
+      "courseName": "Introduction to Probability and Statistics"
+    },
+    { "courseCode": "SBEN315", "courseName": "Quantitative Management" },
     {
       "courseCode": "ARCS336",
       "courseName": "Architecture, Culture & Heritage"
     },
-    { "courseCode": "CMPS118", "courseName": "Introduction to Logic Design" },
+    {
+      "courseCode": "AERN321",
+      "courseName": "Hydraulic and Pneumatic Systems"
+    },
+    { "courseCode": "SEEN480", "courseName": "Graduation Project (I)" },
+    { "courseCode": "ARCS208", "courseName": "Site Planning and Development" },
+    {
+      "courseCode": "INTN205",
+      "courseName": "Mechanical and Electrical Systems"
+    },
+    { "courseCode": "SEEN280", "courseName": "Engineering Seminar" },
+    {
+      "courseCode": "CMPS205",
+      "courseName": "Computer Graphics and Man Machine Interfacing"
+    },
+    { "courseCode": "MCNN327", "courseName": "Heat and Mass Transfer" },
+    { "courseCode": "EPES306", "courseName": "Power Electronics (1)" },
+    { "courseCode": "CMPS456", "courseName": "Mobile robotics" },
+    { "courseCode": "CHES305", "courseName": "Chemical Reactor Design" },
+    { "courseCode": "CHES201", "courseName": "Fluid Mechanics" },
+    { "courseCode": "CHES101", "courseName": "Organic Chemistry-1" },
+    { "courseCode": "EPES421", "courseName": "Electrical Machines Drives" },
+    { "courseCode": "EPES200", "courseName": "Basic Laboratory" },
+    { "courseCode": "MEES280", "courseName": "Engineering Seminar" },
+    { "courseCode": "MDEN481", "courseName": "Graduation Project-2" },
+    {
+      "courseCode": "AERN421",
+      "courseName": "Aircraft Maintenance Systems Engineering"
+    },
+    { "courseCode": "MEPS219", "courseName": "Mechanical Power Engineering" },
+    { "courseCode": "AEMN280", "courseName": "Engineering Seminar" },
+    {
+      "courseCode": "SBEN428",
+      "courseName": "Advanced Topics in Medical Standards and Accreditations"
+    },
+    {
+      "courseCode": "CVEN361",
+      "courseName": "Special Topics in Civil Engineering"
+    },
+    { "courseCode": "CIEN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "ARCS307", "courseName": "Architectural Design-5" },
+    {
+      "courseCode": "PEN301",
+      "courseName": "Petroleum Exploration Engineering"
+    },
+    { "courseCode": "PEN410", "courseName": "Oil Well Drilling-3" },
+    { "courseCode": "EEES481", "courseName": "Graduation Project-1" },
+    { "courseCode": "PEN403", "courseName": "Natural Gas Engineering-2" },
+    { "courseCode": "IHDS204", "courseName": "Civil Engineering Drawing" },
+    { "courseCode": "CMPS454", "courseName": "Natural Language Processing" },
+    {
+      "courseCode": "EMCS201",
+      "courseName": "Engineering Mechanics-3-Rigid Body Dynamics"
+    },
+    { "courseCode": "PEN404", "courseName": "Well Logging" },
+    {
+      "courseCode": "MDPN469",
+      "courseName": "Systems Modelling and Simulation"
+    },
+    {
+      "courseCode": "EECS201",
+      "courseName": "Electronics-2: Analog and Digital Electronics"
+    },
+    { "courseCode": "EPES406", "courseName": "High Voltage Technology" },
+    { "courseCode": "STEN481", "courseName": "Graduation Project-2" },
+    {
+      "courseCode": "CHES402",
+      "courseName": "Petrochemicals from Oil and Gas"
+    },
+    { "courseCode": "PEN409", "courseName": "Well Stimulation" },
+    { "courseCode": "EPES417", "courseName": "Renewable Energy Systems" },
+    { "courseCode": "ELCN406", "courseName": "Communications-3" },
+    { "courseCode": "EPES404", "courseName": "Digital Control Systems" },
+    { "courseCode": "EPES125", "courseName": "Electrical Power Engineering" },
+    { "courseCode": "STRS101", "courseName": "Structural Analysis-1" },
+    { "courseCode": "EPES402", "courseName": "Power System Analysis" },
+    { "courseCode": "STRS312", "courseName": "Steel Structures" },
+    { "courseCode": "STRN422", "courseName": "Cost Engineering" },
+    {
+      "courseCode": "MTHS102",
+      "courseName": "Linear Algebra and Multivariable Integrals"
+    },
+    {
+      "courseCode": "EECS202",
+      "courseName": "Operational Amplifiers circuits and applications"
+    },
+    { "courseCode": "PHYS002", "courseName": "Electricity and Magnetism" },
+    {
+      "courseCode": "CHES210",
+      "courseName": "Data Science in Chemical Engineering"
+    },
+    { "courseCode": "EPMN303", "courseName": "Industrial Instrumentation" },
+    { "courseCode": "STRN449", "courseName": "Organization Management" },
     { "courseCode": "AERN214", "courseName": "System Dynamics and modeling" },
+    {
+      "courseCode": "AERN311",
+      "courseName": "Aircraft Performance and Stability"
+    },
+    { "courseCode": "MEPN403", "courseName": "Heat Exchangers Design" },
+    {
+      "courseCode": "CHEN406",
+      "courseName": "Advanced Statistics for Petrochemical Industries"
+    },
+    { "courseCode": "MDPN471", "courseName": "Mechanical Vibrations" },
+    {
+      "courseCode": "IHDN402",
+      "courseName": "Environmental and Municipal Hydraulics"
+    },
+    {
+      "courseCode": "MDPN332",
+      "courseName": "Computer Aided Design and Manufacturing"
+    },
+    {
+      "courseCode": "AERN215",
+      "courseName": "Engineering Standards and Specifications"
+    },
+    { "courseCode": "SBEN316", "courseName": "Medical Device Technologies" },
+    {
+      "courseCode": "IHDS309",
+      "courseName": "Water Chemistry and Microbiology"
+    },
+    { "courseCode": "SBEN311", "courseName": "Biomedical Signal Processing" },
+    { "courseCode": "MEPN415", "courseName": "Power Generation" },
+    { "courseCode": "CHEN304", "courseName": "Unit Operations" },
     {
       "courseCode": "MEPS201",
       "courseName": "Internal Combustion Engines (Theory and Development)"
     },
-    { "courseCode": "MDPS217", "courseName": "Machine Drawing" },
-    { "courseCode": "EECS100", "courseName": "Laboratory" },
     {
-      "courseCode": "AERN425",
-      "courseName": "Airline Operation and Management"
+      "courseCode": "EECS101",
+      "courseName": "Electronics-1: Basic Electronic Circuits"
     },
-    { "courseCode": "GENS341", "courseName": "Operation Research" },
-    { "courseCode": "EECS112", "courseName": "Circuits-2" },
-    { "courseCode": "EPES405", "courseName": "Power Electronics (2)" },
-    { "courseCode": "MEES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "STRN303", "courseName": "Reinforced Concrete Design II" },
-    { "courseCode": "GENS001", "courseName": "Critical and Creative Thinking" },
-    { "courseCode": "AERS211", "courseName": "Fluid Mechanics" },
-    { "courseCode": "IHDN305", "courseName": "Applied Hydrology" },
-    { "courseCode": "AERS213", "courseName": "Fundamentals of Thermodynamics" },
-    { "courseCode": "EPES402", "courseName": "Power System Analysis" },
-    { "courseCode": "MEPN404", "courseName": "Nuclear Energy" },
+    { "courseCode": "MDPN354", "courseName": "Machine Design II" },
+    { "courseCode": "MDPS132", "courseName": "Materials Science" },
+    { "courseCode": "CMPS118", "courseName": "Introduction to Logic Design" },
+    { "courseCode": "EPMN413", "courseName": "Energy Conservation" },
     {
-      "courseCode": "IHDN402",
-      "courseName": "Environmental and Municipal Hydraulics"
-    }
+      "courseCode": "GENS009",
+      "courseName": "Introduction to Design Thinking"
+    },
+    { "courseCode": "AERN212", "courseName": "Analysis of Structures" },
+    {
+      "courseCode": "SBEN226",
+      "courseName": "Medical Monitors & Life Support Equipment"
+    },
+    { "courseCode": "PPCN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "AERN216", "courseName": "Aviation Economics" },
+    {
+      "courseCode": "PBWN201",
+      "courseName": "Water and Waste Water Engineering"
+    },
+    { "courseCode": "CMPS201", "courseName": "Microprocessor Systems" },
+    {
+      "courseCode": "CHEN403",
+      "courseName": "Chemical Reactor and Vessel Design"
+    },
+    {
+      "courseCode": "CMPS407",
+      "courseName": "Computer Modeling and Simulations"
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment"
+    },
+    { "courseCode": "EPES204", "courseName": "Energy Conversion" },
+    { "courseCode": "EPES304", "courseName": "Electrical Machines-2" },
+    { "courseCode": "EPES427", "courseName": "Intelligent Control" },
+    { "courseCode": "AERN312", "courseName": "Aircraft Structures" },
+    { "courseCode": "INTS001", "courseName": "Engineering Graphics" },
+    { "courseCode": "MDPS261", "courseName": "Stress Analysis" },
+    { "courseCode": "MTHS002", "courseName": "Calculus I" },
+    {
+      "courseCode": "MDPS251",
+      "courseName": "Kinematics of Machine Components"
+    },
+    { "courseCode": "EPES424", "courseName": "Mechatronics" },
+    { "courseCode": "EECS304", "courseName": "Control-1" },
+    {
+      "courseCode": "PBWN445",
+      "courseName": "GIS and Remote Sensing Applications"
+    },
+    {
+      "courseCode": "SBES161",
+      "courseName": "Medical Monitors & Life Support Equipment"
+    },
+    { "courseCode": "MDPN457", "courseName": "Fluid Power Systems" },
+    {
+      "courseCode": "MEPN421",
+      "courseName": "Air Conditioning Design, Selection, Operation and Trouble shooting"
+    },
+    { "courseCode": "MDPN468", "courseName": "Quality Engineering" },
+    { "courseCode": "MDPN467", "courseName": "Production Management" },
+    {
+      "courseCode": "AETS280",
+      "courseName": "Engineering Seminar- Introduction to Arch Theory"
+    },
+    { "courseCode": "PEN302", "courseName": "Reservoir Engineering-1" },
+    { "courseCode": "ARCS301", "courseName": "Architectural Design-4" },
+    { "courseCode": "CHES202", "courseName": "Physical Chemistry-1" },
+    {
+      "courseCode": "EMCS001",
+      "courseName": "Engineering Mechanics- Dynamics"
+    },
+    { "courseCode": "IHDN302", "courseName": "Irrigation Design Works-1" },
+    { "courseCode": "GENS208", "courseName": "Marketing" },
+    { "courseCode": "GENS209", "courseName": "Selections of Life Long Skills" },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting"
+    },
+    { "courseCode": "CCES280", "courseName": "Engineering Seminar" },
+    { "courseCode": "CMPN425", "courseName": "Computer System Consultation" },
+    {
+      "courseCode": "IHDN403",
+      "courseName": "Field Measurements and Water Quality Aspects"
+    },
+    { "courseCode": "MDPS217", "courseName": "Machine Drawing" },
+    {
+      "courseCode": "STRN465",
+      "courseName": "Inspection and Maintenance of Structures"
+    },
+    { "courseCode": "EECS112", "courseName": "Circuits-2" },
+    { "courseCode": "MDPN363", "courseName": "Finite Element Analysis" },
+    { "courseCode": "GENS205", "courseName": "Advanced Risk Management" },
+    { "courseCode": "MDPS133", "courseName": "Materials for Mechatronics" },
+    { "courseCode": "MDPN362", "courseName": "Operation research I" },
+    {
+      "courseCode": "CHEN402",
+      "courseName": "Petrochemicals from Oil and Gas"
+    },
+    { "courseCode": "MDPN474", "courseName": "Automatic Control II" },
+    { "courseCode": "ARCS351", "courseName": "Art, Creativity and Design" },
+    {
+      "courseCode": "STRN408",
+      "courseName": "Structural Dynamics and Vibrations"
+    },
+    {
+      "courseCode": "STRN433",
+      "courseName": "Structural Mechanics and Stability"
+    },
+    { "courseCode": "MDPN473", "courseName": "Automatic Control I" },
+    { "courseCode": "AEMN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "CEMN280", "courseName": "Engineering Seminar" },
+    { "courseCode": "GENS202", "courseName": "Advanced Critical Thinking" },
+    {
+      "courseCode": "CMPS202",
+      "courseName": "Introduction to Database Management Systems"
+    },
+    {
+      "courseCode": "ARCS335",
+      "courseName": "Community Design and Social Development"
+    },
+    {
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills"
+    },
+    {
+      "courseCode": "STRN461",
+      "courseName": "Special Topics in Structural Engineering"
+    },
+    { "courseCode": "MEPN412", "courseName": "Energy Storage" },
+    { "courseCode": "CMPS303", "courseName": "Operating Systems" },
+    { "courseCode": "STRN304", "courseName": "Steel Structures Design II" }
   ]
 }
