@@ -108,6 +108,7 @@ function TimeTable() {
                     {coursesTimeslots.map((timeslot) => {
                         const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                         const isSelected = selectedCourses.includes(courseIdentifier);
+                        const cellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                         if (timeslot.day === "Sunday") {
                             return (
                                 <tr key={courseIdentifier}>
@@ -117,6 +118,7 @@ function TimeTable() {
                                     }
                                     <td
                                         colSpan={timeslot.duration}
+                                        style={cellStyle}
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
@@ -150,6 +152,7 @@ function TimeTable() {
                     {coursesTimeslots.map((timeslot) => {
                         const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                         const isSelected = selectedCourses.includes(courseIdentifier);
+                        const cellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                         if (timeslot.day === "Monday") {
                             return (
                                 <tr key={courseIdentifier}>
@@ -159,6 +162,7 @@ function TimeTable() {
                                     }
                                     <td
                                         colSpan={timeslot.duration}
+                                        style={cellStyle}
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
@@ -193,6 +197,7 @@ function TimeTable() {
                     {coursesTimeslots.map((timeslot) => {
                         const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                         const isSelected = selectedCourses.includes(courseIdentifier);
+                        const cellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                         if (timeslot.day === "Tuesday") {
                             return (
                                 <tr key={courseIdentifier}>
@@ -202,6 +207,7 @@ function TimeTable() {
                                     }
                                     <td
                                         colSpan={timeslot.duration}
+                                        style={cellStyle}
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
@@ -237,6 +243,7 @@ function TimeTable() {
                     {coursesTimeslots.map((timeslot) => {
                         const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                         const isSelected = selectedCourses.includes(courseIdentifier);
+                        const cellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                         if (timeslot.day === "Wednesday") {
                             return (
                                 <tr key={courseIdentifier}>
@@ -246,6 +253,7 @@ function TimeTable() {
                                     }
                                     <td
                                         colSpan={timeslot.duration}
+                                        style={cellStyle}
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
@@ -280,6 +288,7 @@ function TimeTable() {
                     {coursesTimeslots.map((timeslot) => {
                         const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                         const isSelected = selectedCourses.includes(courseIdentifier);
+                        const cellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                         if (timeslot.day === "Thursday") {
                             return (
                                 <tr key={courseIdentifier}>
@@ -289,6 +298,7 @@ function TimeTable() {
                                     }
                                     <td
                                         colSpan={timeslot.duration}
+                                        style={cellStyle}
                                         className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                         onClick={() => toggleCourseSelection(timeslot.courseCode, timeslot.day, timeslot.group, timeslot.from, timeslot.to)}
                                     >
