@@ -3,3 +3,10 @@
     text-wrap: balance;
     text-align: justify;
 }
+
+
+.selected-course {
+    background-color: yellow;
+    color: yellow; 
+    font-weight: bold;
+}

@@ -1,7 +1,21 @@
 import styles from './TimeTable.module.css';
+import React, { useState } from 'react';
 
 function TimeTable() {
 
+    const [selectedCourses, setSelectedCourses] = useState([]);
+    const toggleCourseSelection = (courseCode) => {
+        setSelectedCourses((prevSelectedCourses) => {
+            // Check if the course is already selected
+            if (prevSelectedCourses.includes(courseCode)) {
+                // If selected, remove it from the list
+                return prevSelectedCourses.filter((code) => code !== courseCode);
+            } else {
+                // If not selected, add it to the list
+                return [...prevSelectedCourses, courseCode];
+            }
+        });
+    };
     const coursesTimeslots = [
         {
             courseCode: "CMPN111",
@@ -26,7 +40,7 @@ function TimeTable() {
             timeFrom8am: 0,
         },
         {
-            courseCode: "CMPN303",
+            courseCode: "CMPN301",
             courseName: "Operating Systems",
             group: "1",
             day: "Sunday",
@@ -68,21 +82,25 @@ function TimeTable() {
                     </tr>
                 </thead>
                 <tbody name="sunday-timeslots">
-                    {
-                        coursesTimeslots.map((timeslot) => {
-                            if (timeslot.day === "Sunday") {
-                                return (
-                                    <tr>
-                                        {
-                                            Array.from(Array(timeslot.timeFrom8am).keys()).map((i) => {
-                                                return <td colSpan={1} className={styles['table-cell']}></td>
-                                            })
-                                        }
-                                        <td colSpan={timeslot.duration} className={styles['table-cell']}>{timeslot.courseCode}</td>
-                                    </tr>
-                                )
-                            }
-                            return null;
+                {coursesTimeslots.map((timeslot) => {
+                    if (timeslot.day === "Sunday") {
+                        const isSelected = selectedCourses.includes(timeslot.courseCode);
+                        return (
+                            <tr key={timeslot.courseCode}>
+                                {Array.from(Array(timeslot.timeFrom8am).keys()).map((i) => {
+                                    return <td key={i} colSpan={1} className={styles['table-cell']}></td>;
+                                })}
+                                <td
+                                    colSpan={timeslot.duration}
+                                    className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
+                                    onClick={() => toggleCourseSelection(timeslot.courseCode)}
+                                >
+                                    {timeslot.courseCode}
+                                </td>
+                            </tr>
+                        );
+                    }
+                    return null;
                         })
                     }
                 </tbody>
