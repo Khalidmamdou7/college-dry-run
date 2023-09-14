@@ -88,7 +88,7 @@ function TimeTable() {
 
     // Add the courses to the timetable
 
-    const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
+    const daysOfWeek = ['Saturday','Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
     return (
         <div className='table-responsive'>
             <div className="row">
