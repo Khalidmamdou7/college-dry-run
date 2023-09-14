@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 function TimeTable() {
 
     const [selectedCourses, setSelectedCourses] = useState([]);
+    const [hoveredCourseCode, setHoveredCourseCode] = useState(null);
     const toggleCourseSelection = (courseCode, day, group, from, to) => {
         const courseIdentifier = `${courseCode}-${day}-${group}-${from}-${to}`;
         setSelectedCourses((prevSelectedCourses) => {
@@ -16,6 +17,10 @@ function TimeTable() {
                 return [...prevSelectedCourses, courseIdentifier];
             }
         });
+    };
+
+    const getSameCodeCourses = (courseCode) => {
+        return coursesTimeslots.filter((course) => course.courseCode === courseCode);
     };
     const coursesTimeslots = [
         {
@@ -90,7 +95,7 @@ function TimeTable() {
 
     const daysOfWeek = ['Saturday','Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
     return (
-        <div className='table-responsive'>
+        <div className='table-responsive' style={{ backgroundColor: 'white'}}>
             <div className="row">
                 {daysOfWeek.map((day, index) => (
                     <div className="col-md-6"style={{ margin: '2', padding: '2' }} key={index}>
@@ -113,15 +118,22 @@ function TimeTable() {
                                     const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                                     const isSelected = selectedCourses.includes(courseIdentifier);
                                     const selectedCellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
+                                    const isHovered = hoveredCourseCode === timeslot.courseCode;
                                     const courseCellStyle = {
                                         ...selectedCellStyle,
                                         fontSize: '12px',
                                         height: '20px',  
+                                        fontWeight: 'bold',
+                                        border: isHovered ? '2px solid red' : 'none'
+     
                                     };
 
                                     if (timeslot.day === day) {
                                         return (
-                                            <tr key={courseIdentifier}>
+                                            <tr key={courseIdentifier}
+                                            onMouseEnter={() => setHoveredCourseCode(timeslot.courseCode)} // Set hover course code
+                                            onMouseLeave={() => setHoveredCourseCode(null)}
+                                            >
                                                 {timeslot.timeFrom8am > 0 && (
                                                     <td colSpan={timeslot.timeFrom8am} className={styles['blank-table-cell']}></td>
                                                 )}
