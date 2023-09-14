@@ -6,3 +6,10 @@
     height: 100vh;
     margin: auto;
 }
+
+.landing-page-footer {
+    margin-top: 32px;
+    bottom: 0;
+    width: 100%;
+    color: grey;
+}
