@@ -58,7 +58,7 @@ function TimeTable(props) {
                                         fontSize: '10px',
                                         height: '15px',  
                                         fontWeight: 'bold',
-                                        backgroundColor: isTutorial ? '#FAEBD7' : 'white' ,
+                                        // backgroundColor: isTutorial ? '#FAEBD7' : 'white' ,
                                         border: isHovered ? '2px solid red' : 'none',
      
                                     };
