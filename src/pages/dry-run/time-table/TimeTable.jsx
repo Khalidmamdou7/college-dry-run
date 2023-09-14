@@ -125,21 +125,157 @@ function TimeTable() {
                 {
                         coursesTimeslots.map((timeslot) => {
                             if (timeslot.day === "Monday") {
+                                const isSelected = selectedCourses.includes(timeslot.courseCode);
                                 return (
                                     <tr>
-                                        {
-                                            timeslot.timeFrom8am > 0 &&
-                                            <td colSpan={timeslot.timeFrom8am} className={styles['blank-table-cell']}></td>
-                                        }
-                                        <td colSpan={timeslot.duration} className={styles['table-cell']}>{timeslot.courseCode}</td>
+                                                {
+                                                    timeslot.timeFrom8am > 0 &&
+                                                    <td colSpan={timeslot.timeFrom8am} className={styles['blank-table-cell']}></td>
+                                                }
+                                        <td
+                                            colSpan={timeslot.duration}
+                                            className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
+                                            onClick={() => toggleCourseSelection(timeslot.courseCode)}
+                                        >
+                                            {timeslot.courseCode}
+                                        </td>
                                     </tr>
-                                )
+                                );
                             }
                             return null;
                         })
                     }
                 </tbody>
+
             </table>
+
+            <table className='table align-middle table-bordered table-hover'>
+                <thead>
+                    <tr>
+                        <th scope="col" colSpan={12}>Tuesday</th>
+                    </tr>
+                    <tr>
+                        {
+                            Array.from(Array(12).keys()).map((i) => {
+                                return <th scope="col" key={i} className={styles['time-slot']}>{`${i + 8}:00 - ${i + 8}:50`}</th>
+                                })
+                            
+                        }
+                    </tr>
+                </thead>
+                <tbody name="tuesday-timeslots">
+                {
+                        coursesTimeslots.map((timeslot) => {
+                            if (timeslot.day === "Tuesday") {
+                                const isSelected = selectedCourses.includes(timeslot.courseCode);
+                                return (
+                                    <tr>
+                                                {
+                                                    timeslot.timeFrom8am > 0 &&
+                                                    <td colSpan={timeslot.timeFrom8am} className={styles['blank-table-cell']}></td>
+                                                }
+                                        <td
+                                            colSpan={timeslot.duration}
+                                            className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
+                                            onClick={() => toggleCourseSelection(timeslot.courseCode)}
+                                        >
+                                            {timeslot.courseCode}
+                                        </td>
+                                    </tr>
+                                );
+                            }
+                            return null;
+                        })
+                    }
+                </tbody>
+                
+            </table>
+
+
+            <table className='table align-middle table-bordered table-hover'>
+                <thead>
+                    <tr>
+                        <th scope="col" colSpan={12}>Wednesday</th>
+                    </tr>
+                    <tr>
+                        {
+                            Array.from(Array(12).keys()).map((i) => {
+                                return <th scope="col" key={i} className={styles['time-slot']}>{`${i + 8}:00 - ${i + 8}:50`}</th>
+                                })
+                            
+                        }
+                    </tr>
+                </thead>
+                <tbody name="wednesday-timeslots">
+                {
+                        coursesTimeslots.map((timeslot) => {
+                            if (timeslot.day === "Wednesday") {
+                                const isSelected = selectedCourses.includes(timeslot.courseCode);
+                                return (
+                                    <tr>
+                                                {
+                                                    timeslot.timeFrom8am > 0 &&
+                                                    <td colSpan={timeslot.timeFrom8am} className={styles['blank-table-cell']}></td>
+                                                }
+                                        <td
+                                            colSpan={timeslot.duration}
+                                            className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
+                                            onClick={() => toggleCourseSelection(timeslot.courseCode)}
+                                        >
+                                            {timeslot.courseCode}
+                                        </td>
+                                    </tr>
+                                );
+                            }
+                            return null;
+                        })
+                    }
+                </tbody>
+                
+            </table>
+
+            <table className='table align-middle table-bordered table-hover'>
+                <thead>
+                    <tr>
+                        <th scope="col" colSpan={12}>Thursday</th>
+                    </tr>
+                    <tr>
+                        {
+                            Array.from(Array(12).keys()).map((i) => {
+                                return <th scope="col" key={i} className={styles['time-slot']}>{`${i + 8}:00 - ${i + 8}:50`}</th>
+                                })
+                            
+                        }
+                    </tr>
+                </thead>
+                <tbody name="thursday-timeslots">
+                {
+                        coursesTimeslots.map((timeslot) => {
+                            if (timeslot.day === "Thursday") {
+                                const isSelected = selectedCourses.includes(timeslot.courseCode);
+                                return (
+                                    <tr>
+                                                {
+                                                    timeslot.timeFrom8am > 0 &&
+                                                    <td colSpan={timeslot.timeFrom8am} className={styles['blank-table-cell']}></td>
+                                                }
+                                        <td
+                                            colSpan={timeslot.duration}
+                                            className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
+                                            onClick={() => toggleCourseSelection(timeslot.courseCode)}
+                                        >
+                                            {timeslot.courseCode}
+                                        </td>
+                                    </tr>
+                                );
+                            }
+                            return null;
+                        })
+                    }
+                </tbody>
+                
+            </table>
+
             
         </div>
 
