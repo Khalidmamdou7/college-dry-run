@@ -95,10 +95,10 @@ function TimeTable() {
 
     const daysOfWeek = ['Saturday','Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
     return (
-        <div className='table-responsive' style={{ backgroundColor: 'white'}}>
+        <div className='table-responsive' style={{ backgroundColor: '#99CCFF'}}>
             <div className="row">
                 {daysOfWeek.map((day, index) => (
-                    <div className="col-md-6"style={{ margin: '2', padding: '2' }} key={index}>
+                    <div className="col-md-6"style={{ margin: '0', padding: '0' }} key={index}>
                         <table className='table align-middle table-bordered table-hover' >
                             <thead>
                                 <tr className={styles['table-header']}>
@@ -121,8 +121,8 @@ function TimeTable() {
                                     const isHovered = hoveredCourseCode === timeslot.courseCode;
                                     const courseCellStyle = {
                                         ...selectedCellStyle,
-                                        fontSize: '12px',
-                                        height: '20px',  
+                                        fontSize: '10px',
+                                        height: '15px',  
                                         fontWeight: 'bold',
                                         border: isHovered ? '2px solid red' : 'none'
      
@@ -151,7 +151,7 @@ function TimeTable() {
                                                         )
                                                     }
                                                 >
-                                                    {timeslot.courseCode} - {timeslot.type}
+                                                    {timeslot.courseCode} - {timeslot.courseName} - {timeslot.type}
                                                 </td>
                                             </tr>
                                         );
