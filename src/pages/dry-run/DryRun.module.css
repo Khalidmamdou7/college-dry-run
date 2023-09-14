@@ -1,0 +1,36 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.page-header {
+    background-color: aliceblue;
+    width: 100%;
+    height: 10%;
+}
+
+.page-content {
+    background-color: antiquewhite;
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.dry-run-container {
+    background-color: blue;
+    width: 80%;
+    height: 100%;
+}
+
+.course-selection-container {
+    background-color: red;
+    width: 20%;
+    height: 100%;
+}
