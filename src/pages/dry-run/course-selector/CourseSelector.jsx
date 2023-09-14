@@ -21,6 +21,9 @@ function CourseSelector(props) {
     }
 
     const handleAddCourse = async (course) => {
+        if (courses.includes(course)) {
+            return;
+        }
         setCourses([...courses, course]);
         let timeslots = await getCoursesTimeslots([...courses, course]);
         props.handleCoursesChange(timeslots)
