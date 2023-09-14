@@ -51,13 +51,15 @@ function TimeTable(props) {
                                     const courseIdentifier = `${timeslot.courseCode}-${timeslot.timeslotDay}-${timeslot.timeslotGroup}-${timeslot.timeslotFrom}-${timeslot.timeslotTo}`;
                                     const isSelected = selectedCourses.includes(courseIdentifier);
                                     const selectedCellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
+                                    const isTutorial = timeslot.timslotType === 'Tutorial';
                                     const isHovered = hoveredCourseCode === timeslot.courseCode;
                                     const courseCellStyle = {
                                         ...selectedCellStyle,
                                         fontSize: '10px',
                                         height: '15px',  
                                         fontWeight: 'bold',
-                                        border: isHovered ? '2px solid red' : 'none'
+                                        backgroundColor: isTutorial ? '#FAEBD7' : 'white' ,
+                                        border: isHovered ? '2px solid red' : 'none',
      
                                     };
 
