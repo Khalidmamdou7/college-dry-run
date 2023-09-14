@@ -74,7 +74,7 @@ function TimeTable() {
                                 return (
                                     <tr>
                                         {
-                                            Array.from(timeslot.timeFrom8am).map((i) => {
+                                            Array.from(Array(timeslot.timeFrom8am).keys()).map((i) => {
                                                 return <td colSpan={1} className={styles['table-cell']}></td>
                                             })
                                         }
@@ -109,8 +109,8 @@ function TimeTable() {
                                 return (
                                     <tr>
                                         {
-                                            Array.from(timeslot.timeFrom8am).map((i) => {
-                                                return <td colSpan={1} className={styles['table-cell']}></td>
+                                            Array.from(Array(timeslot.timeFrom8am).keys()).map((i) => {
+                                                return <td colSpan={1}></td>
                                             })
                                         }
                                         <td colSpan={timeslot.duration} className={styles['table-cell']}>{timeslot.courseCode}</td>
