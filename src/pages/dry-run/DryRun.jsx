@@ -1,5 +1,5 @@
 import styles from './DryRun.module.css';
-
+import img from './registration.png';
 import { useState } from 'react';
 
 import TimeTable from './time-table/TimeTable';
@@ -18,7 +18,8 @@ function DryRun() {
 
     return (
         <div className={styles['page-container']}>
-            <div className={styles['page-header']}>
+            <div className={styles['page-header']} style={{ display: 'flex', alignItems: 'center', marginBottom: '16px'}}>
+                <img src={img} alt =" " style={{marginLeft: '300px'}} />
                 <h1>Dry Run تحت السلم</h1>
             </div>
             <div className={styles['page-content']} >

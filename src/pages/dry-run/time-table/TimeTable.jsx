@@ -85,7 +85,7 @@ function TimeTable(props) {
                                                         )
                                                     }
                                                 >
-                                                    {timeslot.courseCode} - {timeslot.courseName} - {timeslot.timslotType}
+                                                    {timeslot.courseCode} - {timeslot.timslotType}
                                                 </td>
                                             </tr>
                                         );
