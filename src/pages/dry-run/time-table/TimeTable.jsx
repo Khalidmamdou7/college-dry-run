@@ -93,12 +93,13 @@ function TimeTable() {
         <div className='table-responsive'>
             <div className="row">
                 {daysOfWeek.map((day, index) => (
-                    <div className="col-md-6" key={index}>
-                        <table className='table align-middle table-bordered table-hover'>
+                    <div className="col-md-6"style={{ margin: '2', padding: '2' }} key={index}>
+                        <table className='table align-middle table-bordered table-hover' >
                             <thead>
-                                <tr>
-                                    <th scope="col" colSpan={12}>{day}</th>
+                                <tr className={styles['table-header']}>
+                                    <th scope="col" colSpan={12} style={{ border: '1px solid black', backgroundColor: '#f0f0f0', fontWeight: 'bold', textAlign: 'center' }}>{day}</th>
                                 </tr>
+
                                 <tr>
                                     {Array.from(Array(12).keys()).map((i) => (
                                         <th scope="col" key={i} className={styles['time-slot']}>
@@ -111,7 +112,12 @@ function TimeTable() {
                                 {coursesTimeslots.map((timeslot) => {
                                     const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
                                     const isSelected = selectedCourses.includes(courseIdentifier);
-                                    const cellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
+                                    const selectedCellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
+                                    const courseCellStyle = {
+                                        ...selectedCellStyle,
+                                        fontSize: '12px',
+                                        height: '20px',  
+                                    };
 
                                     if (timeslot.day === day) {
                                         return (
@@ -121,7 +127,7 @@ function TimeTable() {
                                                 )}
                                                 <td
                                                     colSpan={timeslot.duration}
-                                                    style={cellStyle}
+                                                    style={courseCellStyle}
                                                     className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                                     onClick={() =>
                                                         toggleCourseSelection(
@@ -151,4 +157,3 @@ function TimeTable() {
 
 export default TimeTable;
 
-  
