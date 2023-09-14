@@ -3,7 +3,7 @@ import styles from './CourseSelector.module.css';
 
 import { searchCourses, getCoursesTimeslots } from '../services.js';
 
-function CourseSelector() {
+function CourseSelector(props) {
 
     const [search, setSearch] = useState('');
     const [searchResults, setSearchResults] = useState([]);
@@ -23,11 +23,13 @@ function CourseSelector() {
     const handleAddCourse = async (course) => {
         setCourses([...courses, course]);
         let timeslots = await getCoursesTimeslots([...courses, course]);
-        console.log(timeslots);
+        props.handleCoursesChange(timeslots)
     }
 
-    const handleRemoveCourse = (course) => {
+    const handleRemoveCourse = async (course) => {
         setCourses(courses.filter(c => c !== course));
+        let timeslots = await getCoursesTimeslots(courses.filter(c => c !== course));
+        props.handleCoursesChange(timeslots)
     }
 
     return (

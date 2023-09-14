@@ -1,7 +1,7 @@
 import styles from './TimeTable.module.css';
 import React, { useState } from 'react';
 
-function TimeTable() {
+function TimeTable(props) {
 
     const [selectedCourses, setSelectedCourses] = useState([]);
     const [hoveredCourseCode, setHoveredCourseCode] = useState(null);
@@ -22,75 +22,8 @@ function TimeTable() {
     const getSameCodeCourses = (courseCode) => {
         return coursesTimeslots.filter((course) => course.courseCode === courseCode);
     };
-    const coursesTimeslots = [
-        {
-            courseCode: "CMPN391",
-            courseName: "Operating Systems",
-            group: "1",
-            day: "Wednesday",
-            type: "Tutorial",
-            from: "12:00",
-            to: "14:50",
-            duration: "3",
-            timeFrom8am: 4,
-        },
-        {
-            courseCode: "CMPN391",
-            courseName: "Operating Systems",
-            group: "1",
-            day: "Tuesday",
-            type: "Tutorial",
-            from: "12:00",
-            to: "15:50",
-            duration: "4",
-            timeFrom8am: 4,
-        },
-        {
-            courseCode: "CMPN111",
-            courseName: "Logic II",
-            group: "1",
-            day: "Sunday",
-            type: "Lecture",
-            from: "8:00",
-            to: "10:50",
-            duration: "3",
-            timeFrom8am: 0,
-        },
-        {
-            courseCode: "CMPN303",
-            courseName: "Operating Systems",
-            group: "1",
-            day: "Sunday",
-            type: "Lecture",
-            from: "8:00",
-            to: "10:50",
-            duration: "3",
-            timeFrom8am: 0,
-        },
-        {
-            courseCode: "CMPN301",
-            courseName: "Operating Systems",
-            group: "1",
-            day: "Thursday",
-            type: "Tutorial",
-            from: "12:00",
-            to: "14:50",
-            duration: "3",
-            timeFrom8am: 4,
-        },
-        {
-            courseCode: "CMPN101",
-            courseName: "Logic II",
-            group: "1",
-            day: "Monday",
-            type: "Tutorial",
-            from: "8:00",
-            to: "9:50",
-            duration: "2",
-            timeFrom8am: 0,
-        },
-    ]
-
+    const coursesTimeslots =  props.timeslots;
+    
     // Add the courses to the timetable
 
     const daysOfWeek = ['Saturday','Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
@@ -115,7 +48,7 @@ function TimeTable() {
                             </thead>
                             <tbody name={`${day.toLowerCase()}-timeslots`}>
                                 {coursesTimeslots.map((timeslot) => {
-                                    const courseIdentifier = `${timeslot.courseCode}-${timeslot.day}-${timeslot.group}-${timeslot.from}-${timeslot.to}`;
+                                    const courseIdentifier = `${timeslot.courseCode}-${timeslot.timeslotDay}-${timeslot.timeslotGroup}-${timeslot.timeslotFrom}-${timeslot.timeslotTo}`;
                                     const isSelected = selectedCourses.includes(courseIdentifier);
                                     const selectedCellStyle = isSelected ? { backgroundColor: '#22FF22' } : {};
                                     const isHovered = hoveredCourseCode === timeslot.courseCode;
@@ -128,7 +61,7 @@ function TimeTable() {
      
                                     };
 
-                                    if (timeslot.day === day) {
+                                    if (timeslot.timeslotDay === day) {
                                         return (
                                             <tr key={courseIdentifier}
                                             onMouseEnter={() => setHoveredCourseCode(timeslot.courseCode)} // Set hover course code
@@ -144,14 +77,15 @@ function TimeTable() {
                                                     onClick={() =>
                                                         toggleCourseSelection(
                                                             timeslot.courseCode,
-                                                            timeslot.day,
-                                                            timeslot.group,
-                                                            timeslot.from,
-                                                            timeslot.to
+                                                            timeslot.timeslotDay,
+                                                            timeslot.timeslotGroup,
+                                                            timeslot.timeslotFrom,
+                                                            timeslot.timeslotTo,
+                                                            timeslot.timeslotSize
                                                         )
                                                     }
                                                 >
-                                                    {timeslot.courseCode} - {timeslot.courseName} - {timeslot.type}
+                                                    {timeslot.courseCode} - {timeslot.courseName} - {timeslot.timslotType}
                                                 </td>
                                             </tr>
                                         );

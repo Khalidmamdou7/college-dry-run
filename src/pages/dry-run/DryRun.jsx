@@ -1,9 +1,21 @@
 import styles from './DryRun.module.css';
 
+import { useState } from 'react';
+
 import TimeTable from './time-table/TimeTable';
 import CourseSelector from './course-selector/CourseSelector';
 
 function DryRun() {
+
+    const [timeslots, setTimeslots] = useState([]);
+
+    const handleCoursesChange = async (timeslots) => {
+        await setTimeslots(timeslots)
+    }
+
+
+
+
     return (
         <div className={styles['page-container']}>
             <div className={styles['page-header']}>
@@ -12,11 +24,11 @@ function DryRun() {
             <div className={styles['page-content']} >
                 <div className={styles['dry-run-container']} style={{ backgroundColor: 'white'}}>
                     <div className={styles['time-table-container']} >
-                        <TimeTable />
+                        <TimeTable timeslots={timeslots} />
                     </div>
                 </div>
                 <div className={styles['courses-selector-container']}>
-                    <CourseSelector />
+                    <CourseSelector handleCoursesChange={handleCoursesChange} />
                 </div>
             </div>
             
