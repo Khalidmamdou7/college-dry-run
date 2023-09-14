@@ -2,10 +2,10 @@ import styles from './LandingPage.module.css';
 
 function LandingPage() {
     return (
-        <div>
+        <div className={styles['landing-page-container']}>
             <h1>Here is the ugliest College Schedule Maker (CUFE CHS Registration)</h1>
             <p>It's ugly, but it works. Not like the real one.</p>
-            <a href="/dry-run" className={styles['button']}>Go to Dry Run</a>
+            <button type="button" className='btn btn-primary' onClick={() => window.location.href = '/dry-run'}>Go to the Dry Run</button>
         </div>
     );
 };
