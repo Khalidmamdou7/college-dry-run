@@ -9,6 +9,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -20,6 +21,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -31,6 +33,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -42,6 +45,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -53,6 +57,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -64,6 +69,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -75,6 +81,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -86,6 +93,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -97,6 +105,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -108,6 +117,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -119,6 +129,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -130,6 +141,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -141,6 +153,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -152,6 +165,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -163,6 +177,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -174,6 +189,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -185,6 +201,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -196,6 +213,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -207,6 +225,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -218,6 +237,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -229,6 +249,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -240,6 +261,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -251,6 +273,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -262,6 +285,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -273,6 +297,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -284,6 +309,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -295,6 +321,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -306,6 +333,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -317,6 +345,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -328,6 +357,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -339,6 +369,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -350,6 +381,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -361,6 +393,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -372,6 +405,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -383,6 +417,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -394,6 +429,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -405,6 +441,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -416,6 +453,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -427,6 +465,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -438,6 +477,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -449,6 +489,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -460,6 +501,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -471,6 +513,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -482,6 +525,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -493,6 +537,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -504,6 +549,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -515,6 +561,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -526,6 +573,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -537,6 +585,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -548,6 +597,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -559,6 +609,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -570,6 +621,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -581,6 +633,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -592,6 +645,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -603,6 +657,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -614,6 +669,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -625,6 +681,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -636,6 +693,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -647,6 +705,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -658,6 +717,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -669,6 +729,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -680,6 +741,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -691,6 +753,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -702,6 +765,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -713,6 +777,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -724,6 +789,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -735,6 +801,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -746,6 +813,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -757,6 +825,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -768,6 +837,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -779,6 +849,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -790,6 +861,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -801,6 +873,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -812,6 +885,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -823,6 +897,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -834,6 +909,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -845,6 +921,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -856,6 +933,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -867,6 +945,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -878,6 +957,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -889,6 +969,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -900,6 +981,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -911,6 +993,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -922,6 +1005,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -933,6 +1017,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -944,6 +1029,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -955,6 +1041,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -966,6 +1053,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -977,6 +1065,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -988,6 +1077,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -999,6 +1089,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1010,6 +1101,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1021,6 +1113,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1032,6 +1125,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1043,6 +1137,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1054,6 +1149,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1065,6 +1161,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1076,6 +1173,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1087,6 +1185,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1098,6 +1197,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1109,6 +1209,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 6,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -1120,6 +1221,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1131,6 +1233,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1142,6 +1245,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1153,6 +1257,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1164,6 +1269,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1175,6 +1281,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1186,6 +1293,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1197,6 +1305,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1208,6 +1317,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1219,6 +1329,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1230,6 +1341,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1241,6 +1353,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1252,6 +1365,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1263,6 +1377,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1274,6 +1389,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1285,6 +1401,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1296,6 +1413,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1307,6 +1425,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 6,
+      "duration": 4,
       "timeslotSize": "25"
     },
     {
@@ -1318,6 +1437,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1329,6 +1449,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 1,
+      "duration": 4,
       "timeslotSize": "25"
     },
     {
@@ -1340,6 +1461,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1351,6 +1473,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 6,
+      "duration": 4,
       "timeslotSize": "25"
     },
     {
@@ -1362,6 +1485,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1373,6 +1497,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1384,6 +1509,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1395,6 +1521,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 1,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1406,6 +1533,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1417,6 +1545,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1428,6 +1557,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1439,6 +1569,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1450,6 +1581,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1461,6 +1593,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1472,6 +1605,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1483,6 +1617,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1494,6 +1629,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1505,6 +1641,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1516,6 +1653,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1527,6 +1665,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1538,6 +1677,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1549,6 +1689,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1560,6 +1701,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1571,6 +1713,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1582,6 +1725,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1593,6 +1737,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1604,6 +1749,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1615,6 +1761,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1626,6 +1773,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1637,6 +1785,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1648,6 +1797,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1659,6 +1809,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1670,6 +1821,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1681,6 +1833,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1692,6 +1845,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1703,6 +1857,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1714,6 +1869,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1725,6 +1881,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1736,6 +1893,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1747,6 +1905,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -1758,6 +1917,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -1769,6 +1929,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1780,6 +1941,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -1791,6 +1953,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -1802,6 +1965,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -1813,6 +1977,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -1824,6 +1989,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -1835,6 +2001,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -1846,6 +2013,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -1857,6 +2025,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -1868,6 +2037,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1879,6 +2049,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -1890,6 +2061,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -1901,6 +2073,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -1912,6 +2085,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 3,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -1923,6 +2097,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -1934,6 +2109,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -1945,6 +2121,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1956,6 +2133,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -1967,6 +2145,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -1978,6 +2157,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -1989,6 +2169,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -2000,6 +2181,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -2011,6 +2193,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2022,6 +2205,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "35"
     },
     {
@@ -2033,6 +2217,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2044,6 +2229,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2055,6 +2241,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2066,6 +2253,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -2077,6 +2265,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -2088,6 +2277,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2099,6 +2289,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -2110,6 +2301,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -2121,6 +2313,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -2132,6 +2325,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2143,6 +2337,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2154,6 +2349,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "8:50",
       "timeFrom8am": 0,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -2165,6 +2361,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2176,6 +2373,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -2187,6 +2385,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -2198,6 +2397,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2209,6 +2409,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2220,6 +2421,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2231,6 +2433,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2242,6 +2445,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2253,6 +2457,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2264,6 +2469,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2275,6 +2481,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2286,6 +2493,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -2297,6 +2505,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -2308,6 +2517,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -2319,6 +2529,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -2330,6 +2541,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2341,6 +2553,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2352,6 +2565,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2363,6 +2577,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2374,6 +2589,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2385,6 +2601,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2396,6 +2613,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2407,6 +2625,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2418,6 +2637,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2429,6 +2649,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2440,6 +2661,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2451,6 +2673,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2462,6 +2685,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2473,6 +2697,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2484,6 +2709,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2495,6 +2721,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2506,6 +2733,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2517,6 +2745,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2528,6 +2757,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2539,6 +2769,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2550,6 +2781,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2561,6 +2793,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2572,6 +2805,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2583,6 +2817,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2594,6 +2829,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2605,6 +2841,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2616,6 +2853,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2627,6 +2865,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2638,6 +2877,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2649,6 +2889,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2660,6 +2901,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2671,6 +2913,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2682,6 +2925,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2693,6 +2937,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2704,6 +2949,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2715,6 +2961,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2726,6 +2973,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2737,6 +2985,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2748,6 +2997,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -2759,6 +3009,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2770,6 +3021,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -2781,6 +3033,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2792,6 +3045,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -2803,6 +3057,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2814,6 +3069,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2825,6 +3081,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -2836,6 +3093,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2847,6 +3105,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2858,6 +3117,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2869,6 +3129,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2880,6 +3141,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -2891,6 +3153,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -2902,6 +3165,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 2,
+      "duration": 5,
       "timeslotSize": "45"
     },
     {
@@ -2913,6 +3177,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2924,6 +3189,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2935,6 +3201,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -2946,6 +3213,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2957,6 +3225,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2968,6 +3237,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -2979,6 +3249,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -2990,6 +3261,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3001,6 +3273,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3012,6 +3285,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3023,6 +3297,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3034,6 +3309,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3045,6 +3321,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3056,6 +3333,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3067,6 +3345,7 @@
       "timeslotFrom": "19:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 11,
+      "duration": 1,
       "timeslotSize": "50"
     },
     {
@@ -3078,6 +3357,7 @@
       "timeslotFrom": "19:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 11,
+      "duration": 1,
       "timeslotSize": "0"
     },
     {
@@ -3089,6 +3369,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "8:50",
       "timeFrom8am": 0,
+      "duration": 1,
       "timeslotSize": "40"
     },
     {
@@ -3100,6 +3381,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -3111,6 +3393,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3122,6 +3405,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -3133,6 +3417,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3144,6 +3429,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3155,6 +3441,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -3166,6 +3453,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "45"
     },
     {
@@ -3177,6 +3465,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -3188,6 +3477,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "45"
     },
     {
@@ -3199,6 +3489,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -3210,6 +3501,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3221,6 +3513,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3232,6 +3525,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -3243,6 +3537,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -3254,6 +3549,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3265,6 +3561,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3276,6 +3573,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3287,6 +3585,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3298,6 +3597,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3309,6 +3609,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3320,6 +3621,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3331,6 +3633,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3342,6 +3645,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3353,6 +3657,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3364,6 +3669,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3375,6 +3681,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3386,6 +3693,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3397,6 +3705,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3408,6 +3717,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3419,6 +3729,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3430,6 +3741,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3441,6 +3753,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3452,6 +3765,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3463,6 +3777,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3474,6 +3789,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3485,6 +3801,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3496,6 +3813,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3507,6 +3825,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3518,6 +3837,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3529,6 +3849,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3540,6 +3861,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3551,6 +3873,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 9,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -3562,6 +3885,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3573,6 +3897,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -3584,6 +3909,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3595,6 +3921,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3606,6 +3933,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3617,6 +3945,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3628,6 +3957,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -3639,6 +3969,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3650,6 +3981,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3661,6 +3993,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3672,6 +4005,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -3683,6 +4017,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 6,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -3694,6 +4029,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3705,6 +4041,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -3716,6 +4053,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3727,6 +4065,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -3738,6 +4077,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3749,6 +4089,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -3760,6 +4101,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3771,6 +4113,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -3782,6 +4125,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -3793,6 +4137,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -3804,6 +4149,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "35"
     },
     {
@@ -3815,6 +4161,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "35"
     },
     {
@@ -3826,6 +4173,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3837,6 +4185,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 6,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -3848,6 +4197,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3859,6 +4209,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "65"
     },
     {
@@ -3870,6 +4221,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 3,
+      "duration": 4,
       "timeslotSize": "65"
     },
     {
@@ -3881,6 +4233,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3892,6 +4245,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -3903,6 +4257,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3914,6 +4269,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -3925,6 +4281,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3936,6 +4293,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3947,6 +4305,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3958,6 +4317,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -3969,6 +4329,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -3980,6 +4341,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -3991,6 +4353,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4002,6 +4365,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4013,6 +4377,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4024,6 +4389,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 2,
+      "duration": 5,
       "timeslotSize": "0"
     },
     {
@@ -4035,6 +4401,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4046,6 +4413,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 5,
+      "duration": 4,
       "timeslotSize": "0"
     },
     {
@@ -4057,6 +4425,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4068,6 +4437,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "32"
     },
     {
@@ -4079,6 +4449,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4090,6 +4461,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "32"
     },
     {
@@ -4101,6 +4473,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "32"
     },
     {
@@ -4112,6 +4485,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4123,6 +4497,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "32"
     },
     {
@@ -4134,6 +4509,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4145,6 +4521,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4156,6 +4533,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 4,
+      "duration": 3,
       "timeslotSize": "0"
     },
     {
@@ -4167,6 +4545,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4178,6 +4557,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4189,6 +4569,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "8:50",
       "timeFrom8am": 0,
+      "duration": 1,
       "timeslotSize": "32"
     },
     {
@@ -4200,6 +4581,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4211,6 +4593,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 4,
+      "duration": 1,
       "timeslotSize": "32"
     },
     {
@@ -4222,6 +4605,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "32"
     },
     {
@@ -4233,6 +4617,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4244,6 +4629,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 4,
+      "duration": 3,
       "timeslotSize": "0"
     },
     {
@@ -4255,6 +4641,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4266,6 +4653,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 4,
+      "duration": 4,
       "timeslotSize": "0"
     },
     {
@@ -4277,6 +4665,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4288,6 +4677,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 5,
+      "duration": 4,
       "timeslotSize": "0"
     },
     {
@@ -4299,6 +4689,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4310,6 +4701,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 2,
+      "duration": 4,
       "timeslotSize": "0"
     },
     {
@@ -4321,6 +4713,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4332,6 +4725,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 8,
+      "duration": 4,
       "timeslotSize": "0"
     },
     {
@@ -4343,6 +4737,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4354,6 +4749,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "0"
     },
     {
@@ -4365,6 +4761,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4376,6 +4773,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "0"
     },
     {
@@ -4387,6 +4785,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 4,
+      "duration": 1,
       "timeslotSize": "0"
     },
     {
@@ -4398,6 +4797,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 5,
+      "duration": 4,
       "timeslotSize": "0"
     },
     {
@@ -4409,6 +4809,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -4420,6 +4821,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -4431,6 +4833,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4442,6 +4845,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4453,6 +4857,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4464,6 +4869,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -4475,6 +4881,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4486,6 +4893,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4497,6 +4905,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4508,6 +4917,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4519,6 +4929,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4530,6 +4941,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4541,6 +4953,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4552,6 +4965,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4563,6 +4977,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4574,6 +4989,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4585,6 +5001,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4596,6 +5013,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4607,6 +5025,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4618,6 +5037,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4629,6 +5049,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4640,6 +5061,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4651,6 +5073,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4662,6 +5085,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -4673,6 +5097,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4684,6 +5109,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4695,6 +5121,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4706,6 +5133,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4717,6 +5145,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4728,6 +5157,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4739,6 +5169,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4750,6 +5181,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4761,6 +5193,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4772,6 +5205,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4783,6 +5217,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 3,
+      "duration": 1,
       "timeslotSize": "0"
     },
     {
@@ -4794,6 +5229,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4805,6 +5241,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4816,6 +5253,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4827,6 +5265,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4838,6 +5277,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4849,6 +5289,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4860,6 +5301,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4871,6 +5313,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4882,6 +5325,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4893,6 +5337,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4904,6 +5349,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4915,6 +5361,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4926,6 +5373,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4937,6 +5385,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4948,6 +5397,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4959,6 +5409,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4970,6 +5421,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -4981,6 +5433,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -4992,6 +5445,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5003,6 +5457,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5014,6 +5469,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5025,6 +5481,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -5036,6 +5493,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5047,6 +5505,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5058,6 +5517,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5069,6 +5529,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5080,6 +5541,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5091,6 +5553,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5102,6 +5565,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5113,6 +5577,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 3,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -5124,6 +5589,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 4,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5135,6 +5601,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5146,6 +5613,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5157,6 +5625,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5168,6 +5637,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5179,6 +5649,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5190,6 +5661,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5201,6 +5673,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5212,6 +5685,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5223,6 +5697,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -5234,6 +5709,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5245,6 +5721,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5256,6 +5733,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5267,6 +5745,7 @@
       "timeslotFrom": "19:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 11,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -5278,6 +5757,7 @@
       "timeslotFrom": "19:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 11,
+      "duration": -9,
       "timeslotSize": "25"
     },
     {
@@ -5289,6 +5769,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 9,
+      "duration": 1,
       "timeslotSize": "80"
     },
     {
@@ -5300,6 +5781,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 9,
+      "duration": 1,
       "timeslotSize": "80"
     },
     {
@@ -5311,6 +5793,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 9,
+      "duration": 1,
       "timeslotSize": "80"
     },
     {
@@ -5322,6 +5805,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 9,
+      "duration": 1,
       "timeslotSize": "80"
     },
     {
@@ -5333,6 +5817,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 9,
+      "duration": 1,
       "timeslotSize": "80"
     },
     {
@@ -5344,6 +5829,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "8:50",
       "timeFrom8am": 0,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -5355,6 +5841,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 3,
+      "duration": 1,
       "timeslotSize": "20"
     },
     {
@@ -5366,6 +5853,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "20"
     },
     {
@@ -5377,6 +5865,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "20"
     },
     {
@@ -5388,6 +5877,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5399,6 +5889,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5410,6 +5901,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5421,6 +5913,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5432,6 +5925,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5443,6 +5937,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -5454,6 +5949,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5465,6 +5961,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5476,6 +5973,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5487,6 +5985,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5498,6 +5997,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5509,6 +6009,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5520,6 +6021,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5531,6 +6033,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5542,6 +6045,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5553,6 +6057,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5564,6 +6069,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -5575,6 +6081,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -5586,6 +6093,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5597,6 +6105,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -5608,6 +6117,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -5619,6 +6129,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -5630,6 +6141,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -5641,6 +6153,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5652,6 +6165,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5663,6 +6177,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5674,6 +6189,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5685,6 +6201,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5696,6 +6213,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -5707,6 +6225,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -5718,6 +6237,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -5729,6 +6249,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5740,6 +6261,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5751,6 +6273,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5762,6 +6285,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -5773,6 +6297,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -5784,6 +6309,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -5795,6 +6321,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -5806,6 +6333,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -5817,6 +6345,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5828,6 +6357,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5839,6 +6369,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -5850,6 +6381,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5861,6 +6393,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5872,6 +6405,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -5883,6 +6417,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -5894,6 +6429,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5905,6 +6441,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5916,6 +6453,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -5927,6 +6465,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5938,6 +6477,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -5949,6 +6489,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -5960,6 +6501,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5971,6 +6513,7 @@
       "timeslotFrom": "19:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 11,
+      "duration": 1,
       "timeslotSize": "0"
     },
     {
@@ -5982,6 +6525,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -5993,6 +6537,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6004,6 +6549,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -6015,6 +6561,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6026,6 +6573,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -6037,6 +6585,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6048,6 +6597,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6059,6 +6609,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6070,6 +6621,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -6081,6 +6633,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -6092,6 +6645,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6103,6 +6657,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6114,6 +6669,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6125,6 +6681,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -6136,6 +6693,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "60"
     },
     {
@@ -6147,6 +6705,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6158,6 +6717,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6169,6 +6729,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6180,6 +6741,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6191,6 +6753,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "45"
     },
     {
@@ -6202,6 +6765,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6213,6 +6777,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6224,6 +6789,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "45"
     },
     {
@@ -6235,6 +6801,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6246,6 +6813,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6257,6 +6825,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6268,6 +6837,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "45"
     },
     {
@@ -6279,6 +6849,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -6290,6 +6861,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6301,6 +6873,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6312,6 +6885,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6323,6 +6897,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6334,6 +6909,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -6345,6 +6921,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "40"
     },
     {
@@ -6356,6 +6933,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "33"
     },
     {
@@ -6367,6 +6945,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6378,6 +6957,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "15"
     },
     {
@@ -6389,6 +6969,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "10"
     },
     {
@@ -6400,6 +6981,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6411,6 +6993,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "15"
     },
     {
@@ -6422,6 +7005,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "40"
     },
     {
@@ -6433,6 +7017,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -6444,6 +7029,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "20"
     },
     {
@@ -6455,6 +7041,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6466,6 +7053,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6477,6 +7065,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -6488,6 +7077,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -6499,6 +7089,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6510,6 +7101,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -6521,6 +7113,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -6532,6 +7125,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 4,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -6543,6 +7137,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "20"
     },
     {
@@ -6554,6 +7149,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -6565,6 +7161,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "40"
     },
     {
@@ -6576,6 +7173,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6587,6 +7185,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6598,6 +7197,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "40"
     },
     {
@@ -6609,6 +7209,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "40"
     },
     {
@@ -6620,6 +7221,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6631,6 +7233,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6642,6 +7245,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6653,6 +7257,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6664,6 +7269,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6675,6 +7281,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6686,6 +7293,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6697,6 +7305,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6708,6 +7317,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6719,6 +7329,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6730,6 +7341,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6741,6 +7353,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6752,6 +7365,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6763,6 +7377,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6774,6 +7389,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -6785,6 +7401,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6796,6 +7413,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6807,6 +7425,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6818,6 +7437,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6829,6 +7449,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6840,6 +7461,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 4,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6851,6 +7473,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6862,6 +7485,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6873,6 +7497,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6884,6 +7509,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6895,6 +7521,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 2,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -6906,6 +7533,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6917,6 +7545,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6928,6 +7557,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6939,6 +7569,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6950,6 +7581,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -6961,6 +7593,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6972,6 +7605,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 1,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -6983,6 +7617,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -6994,6 +7629,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7005,6 +7641,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7016,6 +7653,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7027,6 +7665,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7038,6 +7677,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7049,6 +7689,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7060,6 +7701,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7071,6 +7713,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7082,6 +7725,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 1,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7093,6 +7737,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7104,6 +7749,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7115,6 +7761,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7126,6 +7773,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7137,6 +7785,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7148,6 +7797,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7159,6 +7809,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7170,6 +7821,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7181,6 +7833,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7192,6 +7845,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -7203,6 +7857,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7214,6 +7869,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7225,6 +7881,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7236,6 +7893,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7247,6 +7905,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7258,6 +7917,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 1,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7269,6 +7929,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7280,6 +7941,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7291,6 +7953,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7302,6 +7965,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 6,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -7313,6 +7977,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 0,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7324,6 +7989,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7335,6 +8001,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7346,6 +8013,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7357,6 +8025,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7368,6 +8037,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -7379,6 +8049,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7390,6 +8061,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -7401,6 +8073,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7412,6 +8085,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -7423,6 +8097,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7434,6 +8109,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7445,6 +8121,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7456,6 +8133,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7467,6 +8145,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 4,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7478,6 +8157,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7489,6 +8169,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7500,6 +8181,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7511,6 +8193,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7522,6 +8205,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "0"
     },
     {
@@ -7533,6 +8217,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7544,6 +8229,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7555,6 +8241,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7566,6 +8253,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7577,6 +8265,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7588,6 +8277,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7599,6 +8289,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "0"
     },
     {
@@ -7610,6 +8301,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7621,6 +8313,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7632,6 +8325,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7643,6 +8337,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7654,6 +8349,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7665,6 +8361,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7676,6 +8373,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7687,6 +8385,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7698,6 +8397,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7709,6 +8409,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7720,6 +8421,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7731,6 +8433,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7742,6 +8445,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7753,6 +8457,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7764,6 +8469,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7775,6 +8481,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7786,6 +8493,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "11:50",
       "timeFrom8am": 2,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7797,6 +8505,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7808,6 +8517,7 @@
       "timeslotFrom": "12:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 4,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -7819,6 +8529,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7830,6 +8541,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -7841,6 +8553,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7852,6 +8565,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7863,6 +8577,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7874,6 +8589,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7885,6 +8601,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7896,6 +8613,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7907,6 +8625,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7918,6 +8637,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7929,6 +8649,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 9,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -7940,6 +8661,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7951,6 +8673,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7962,6 +8685,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7973,6 +8697,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -7984,6 +8709,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -7995,6 +8721,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8006,6 +8733,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8017,6 +8745,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8028,6 +8757,7 @@
       "timeslotFrom": "19:00",
       "timeslotTo": "19:50",
       "timeFrom8am": 11,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -8039,6 +8769,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8050,6 +8781,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8061,6 +8793,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8072,6 +8805,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8083,6 +8817,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8094,6 +8829,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8105,6 +8841,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 7,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8116,6 +8853,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8127,6 +8865,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8138,6 +8877,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8149,6 +8889,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8160,6 +8901,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8171,6 +8913,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8182,6 +8925,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8193,6 +8937,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8204,6 +8949,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8215,6 +8961,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8226,6 +8973,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8237,6 +8985,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8248,6 +8997,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8259,6 +9009,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8270,6 +9021,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8281,6 +9033,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8292,6 +9045,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8303,6 +9057,7 @@
       "timeslotFrom": "18:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 10,
+      "duration": 1,
       "timeslotSize": "0"
     },
     {
@@ -8314,6 +9069,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8325,6 +9081,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8336,6 +9093,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8347,6 +9105,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8358,6 +9117,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8369,6 +9129,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8380,6 +9141,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8391,6 +9153,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "0"
     },
     {
@@ -8402,6 +9165,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8413,6 +9177,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8424,6 +9189,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8435,6 +9201,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8446,6 +9213,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8457,6 +9225,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8468,6 +9237,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8479,6 +9249,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8490,6 +9261,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8501,6 +9273,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8512,6 +9285,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8523,6 +9297,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8534,6 +9309,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8545,6 +9321,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "25"
     },
     {
@@ -8556,6 +9333,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "9:50",
       "timeFrom8am": 1,
+      "duration": 1,
       "timeslotSize": "25"
     },
     {
@@ -8567,6 +9345,7 @@
       "timeslotFrom": "10:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 2,
+      "duration": 3,
       "timeslotSize": "25"
     },
     {
@@ -8578,6 +9357,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8589,6 +9369,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8600,6 +9381,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8611,6 +9393,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8622,6 +9405,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8633,6 +9417,7 @@
       "timeslotFrom": "18:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 10,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -8644,6 +9429,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8655,6 +9441,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8666,6 +9453,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8677,6 +9465,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8688,6 +9477,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8699,6 +9489,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8710,6 +9501,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8721,6 +9513,7 @@
       "timeslotFrom": "18:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 10,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -8732,6 +9525,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8743,6 +9537,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8754,6 +9549,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8765,6 +9561,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -8776,6 +9573,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8787,6 +9585,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8798,6 +9597,7 @@
       "timeslotFrom": "17:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 9,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8809,6 +9609,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8820,6 +9621,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8831,6 +9633,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8842,6 +9645,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8853,6 +9657,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8864,6 +9669,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8875,6 +9681,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8886,6 +9693,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8897,6 +9705,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 8,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -8908,6 +9717,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8919,6 +9729,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8930,6 +9741,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8941,6 +9753,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 5,
+      "duration": 1,
       "timeslotSize": "30"
     },
     {
@@ -8952,6 +9765,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8963,6 +9777,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8974,6 +9789,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 5,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -8985,6 +9801,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 8,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -8996,6 +9813,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -9007,6 +9825,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -9018,6 +9837,7 @@
       "timeslotFrom": "16:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 8,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -9029,6 +9849,7 @@
       "timeslotFrom": "18:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 10,
+      "duration": 1,
       "timeslotSize": "37"
     },
     {
@@ -9040,6 +9861,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "37"
     },
     {
@@ -9051,6 +9873,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "12:50",
       "timeFrom8am": 3,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -9062,6 +9885,7 @@
       "timeslotFrom": "18:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 10,
+      "duration": 1,
       "timeslotSize": "37"
     },
     {
@@ -9073,6 +9897,7 @@
       "timeslotFrom": "13:00",
       "timeslotTo": "14:50",
       "timeFrom8am": 5,
+      "duration": 2,
       "timeslotSize": "30"
     },
     {
@@ -9084,6 +9909,7 @@
       "timeslotFrom": "11:00",
       "timeslotTo": "13:50",
       "timeFrom8am": 3,
+      "duration": 3,
       "timeslotSize": "37"
     },
     {
@@ -9095,6 +9921,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 7,
+      "duration": 4,
       "timeslotSize": "37"
     },
     {
@@ -9106,6 +9933,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "18:50",
       "timeFrom8am": 7,
+      "duration": 4,
       "timeslotSize": "37"
     },
     {
@@ -9117,6 +9945,7 @@
       "timeslotFrom": "15:00",
       "timeslotTo": "17:50",
       "timeFrom8am": 7,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -9128,6 +9957,7 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "16:50",
       "timeFrom8am": 6,
+      "duration": 3,
       "timeslotSize": "30"
     },
     {
@@ -9139,6 +9969,7 @@
       "timeslotFrom": "9:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 1,
+      "duration": 2,
       "timeslotSize": "0"
     },
     {
@@ -9150,6 +9981,7 @@
       "timeslotFrom": "8:00",
       "timeslotTo": "10:50",
       "timeFrom8am": 0,
+      "duration": 3,
       "timeslotSize": "45"
     },
     {
@@ -9161,624 +9993,625 @@
       "timeslotFrom": "14:00",
       "timeslotTo": "15:50",
       "timeFrom8am": 6,
+      "duration": 2,
       "timeslotSize": "45"
     }
   ],
   "courses": [
-    { "courseCode": "MCNN326", "courseName": "Heat Transfer" },
-    { "courseCode": "MDPN321", "courseName": "Machine Design" },
-    { "courseCode": "EPES301", "courseName": "Electrical Machines-1" },
-    {
-      "courseCode": "GENS237",
-      "courseName": "Ethics & Legislation In Construction Industry"
-    },
-    { "courseCode": "CHEN401", "courseName": "Petroleum Refining Engineering" },
-    { "courseCode": "STRS205", "courseName": "Human Resources Management" },
-    { "courseCode": "MDPN473", "courseName": "Automatic Control I" },
-    { "courseCode": "MDPN479", "courseName": "Special Topics in Mechatronics" },
-    {
-      "courseCode": "PBWN407",
-      "courseName": "Advanced Water and Wastewater Treatment Technologies"
-    },
-    { "courseCode": "EPES203", "courseName": "Electromagnetic Fields" },
-    { "courseCode": "STEN481", "courseName": "Graduation Project-2" },
-    {
-      "courseCode": "IHDS301",
-      "courseName": "Introduction to Water Resources Engineering"
-    },
-    { "courseCode": "CCES481", "courseName": "Graduation Project-1" },
-    { "courseCode": "ELCS103", "courseName": "Circuit Analysis" },
-    {
-      "courseCode": "EECS306",
-      "courseName": "Communications-1: Analogue Communications"
-    },
-    { "courseCode": "GENS210", "courseName": "Scientific Research Methods" },
-    { "courseCode": "MCNN327", "courseName": "Heat and Mass Transfer" },
-    { "courseCode": "PEN404", "courseName": "Well Logging" },
-    { "courseCode": "GENS206", "courseName": "Technical Writing in Arabic" },
-    {
-      "courseCode": "MEPS201",
-      "courseName": "Internal Combustion Engines (Theory and Development)"
-    },
-    { "courseCode": "CMPS405", "courseName": "Computer Networks-1" },
-    { "courseCode": "EPES200", "courseName": "Basic Laboratory" },
-    { "courseCode": "MDPN457", "courseName": "Fluid Power Systems" },
-    { "courseCode": "CMPS402", "courseName": "Machine Intelligence" },
-    { "courseCode": "CHES101", "courseName": "Organic Chemistry-1" },
-    { "courseCode": "GENS203", "courseName": "Entrepreneurship" },
-    { "courseCode": "ARCS302", "courseName": "Building Construction-2" },
-    { "courseCode": "CMPS456", "courseName": "Mobile robotics" },
-    {
-      "courseCode": "CMPS202",
-      "courseName": "Introduction to Database Management Systems"
-    },
-    {
-      "courseCode": "AERN311",
-      "courseName": "Aircraft Performance and Stability"
-    },
-    { "courseCode": "PHYS102", "courseName": "Modern Physics" },
-    { "courseCode": "EPES405", "courseName": "Power Electronics (2)" },
-    { "courseCode": "EPES304", "courseName": "Electrical Machines-2" },
-    {
-      "courseCode": "STRN322",
-      "courseName": "Construction Planning and Scheduling"
-    },
-    { "courseCode": "MEPN446", "courseName": "Turbo-machinery-II" },
-    {
-      "courseCode": "MTHS102",
-      "courseName": "Linear Algebra and Multivariable Integrals"
-    },
-    { "courseCode": "PBWN303", "courseName": "Foundations" },
-    {
-      "courseCode": "SBEN466",
-      "courseName": "Business Process Mining and Enterprise Architecture"
-    },
-    { "courseCode": "ARCS351", "courseName": "Art, Creativity and Design" },
-    { "courseCode": "MTHS104", "courseName": "Differential Equations" },
-    { "courseCode": "SEEN480", "courseName": "Graduation Project (I)" },
-    {
-      "courseCode": "STRN408",
-      "courseName": "Structural Dynamics and Vibrations"
-    },
-    { "courseCode": "AERN313", "courseName": "Aircraft Engine Performance" },
-    {
-      "courseCode": "MDPN361",
-      "courseName": "Engineering Economy and Cost Accounting"
-    },
-    { "courseCode": "STRS301", "courseName": "Reinforced Concrete Design I" },
-    { "courseCode": "EPES427", "courseName": "Intelligent Control" },
-    {
-      "courseCode": "IHDN402",
-      "courseName": "Environmental and Municipal Hydraulics"
-    },
-    { "courseCode": "CMPS102", "courseName": "Programming Techniques" },
-    {
-      "courseCode": "SBES150",
-      "courseName": "Database Systems for Medical Data"
-    },
-    { "courseCode": "MTHS002", "courseName": "Calculus I" },
-    { "courseCode": "MEES280", "courseName": "Engineering Seminar" },
-    {
-      "courseCode": "SBES151",
-      "courseName": "Measurements & Quantitative Experimentation"
-    },
-    { "courseCode": "ARCS202", "courseName": "Building Construction-1" },
-    { "courseCode": "EPMN413", "courseName": "Energy Conservation" },
-    { "courseCode": "MDPS242", "courseName": "Manufacturing Processes II" },
-    {
-      "courseCode": "ARCS101",
-      "courseName": "Introduction to the History of Architecture"
-    },
-    {
-      "courseCode": "ARCS336",
-      "courseName": "Architecture, Culture & Heritage"
-    },
-    { "courseCode": "CEMN280", "courseName": "Engineering Seminar" },
-    {
-      "courseCode": "GENS004",
-      "courseName": "Proficiency and Capacity Building"
-    },
-    { "courseCode": "EPES416", "courseName": "Power Stations" },
-    { "courseCode": "AERN312", "courseName": "Aircraft Structures" },
-    {
-      "courseCode": "SBES161",
-      "courseName": "Medical Monitors & Life Support Equipment"
-    },
-    { "courseCode": "MDES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "PEN409", "courseName": "Well Stimulation" },
-    {
-      "courseCode": "ARCS333",
-      "courseName": "Building Technologies-3 Energy in Building Design"
-    },
-    { "courseCode": "AERN212", "courseName": "Analysis of Structures" },
-    {
-      "courseCode": "GENS110",
-      "courseName": "Fundamentals of Management, Risk & Environment"
-    },
-    {
-      "courseCode": "SBEN226",
-      "courseName": "Medical Monitors & Life Support Equipment"
-    },
-    { "courseCode": "AERS211", "courseName": "Fluid Mechanics" },
-    {
-      "courseCode": "MDPN461",
-      "courseName": "Computer Integrated Manufacturing CIM"
-    },
-    { "courseCode": "IHDS307", "courseName": "Introduction to Climate Change" },
-    { "courseCode": "STRS312", "courseName": "Steel Structures" },
-    {
-      "courseCode": "CHES402",
-      "courseName": "Petrochemicals from Oil and Gas"
-    },
-    {
-      "courseCode": "CHEN402",
-      "courseName": "Petrochemicals from Oil and Gas"
-    },
-    { "courseCode": "MDPS217", "courseName": "Machine Drawing" },
-    { "courseCode": "AERN211", "courseName": "Gas Dynamics" },
-    {
-      "courseCode": "ARCS106",
-      "courseName": "Deigital Representation for Architects"
-    },
-    {
-      "courseCode": "PBWN445",
-      "courseName": "GIS and Remote Sensing Applications"
-    },
-    { "courseCode": "INTS005", "courseName": "Information Technology" },
-    { "courseCode": "SBES131", "courseName": "Clinical Engineering" },
-    {
-      "courseCode": "CVEN361",
-      "courseName": "Special Topics in Civil Engineering"
-    },
-    { "courseCode": "MDPN331", "courseName": "Engineering Operation Research" },
-    { "courseCode": "STEN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "GENN401",
-      "courseName": "Project Planning, Implementation and Economics"
-    },
-    { "courseCode": "STRN422", "courseName": "Cost Engineering" },
-    { "courseCode": "CHES306", "courseName": "Process Control" },
-    {
-      "courseCode": "CMPS111",
-      "courseName": "Advanced Logic Design and Testing"
-    },
-    { "courseCode": "CHEN304", "courseName": "Unit Operations" },
-    { "courseCode": "CHES202", "courseName": "Physical Chemistry-1" },
-    { "courseCode": "CVES125", "courseName": "Civil Engineering" },
-    { "courseCode": "ARCS380", "courseName": "Architecture and Design Theory" },
-    { "courseCode": "CIEN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "CHEN406",
-      "courseName": "Advanced Statistics for Petrochemical Industries"
-    },
-    { "courseCode": "MDPN471", "courseName": "Mechanical Vibrations" },
-    {
-      "courseCode": "AETS280",
-      "courseName": "Engineering Seminar- Introduction to Arch Theory"
-    },
-    { "courseCode": "IHDS201", "courseName": "Fluid Mechanics" },
-    {
-      "courseCode": "ARCS308",
-      "courseName": "Architectural Acoustics and Day-lighting"
-    },
-    { "courseCode": "CMPS302", "courseName": "Algorithms Design and Analysis" },
-    {
-      "courseCode": "AERN331",
-      "courseName": "Introduction to Composite materials"
-    },
-    { "courseCode": "SBES121", "courseName": "Medical Physics" },
-    { "courseCode": "MDPS241", "courseName": "Manufacturing Processes I" },
-    { "courseCode": "GENS208", "courseName": "Marketing" },
-    { "courseCode": "GENS001", "courseName": "Critical and Creative Thinking" },
-    {
-      "courseCode": "STRS111",
-      "courseName": "Structural Analysis-1 and mechanics of materials"
-    },
-    { "courseCode": "PEN302", "courseName": "Reservoir Engineering-1" },
-    { "courseCode": "PBWN301", "courseName": "Highway Engineering" },
-    { "courseCode": "MDPN362", "courseName": "Operation research I" },
-    { "courseCode": "CHES001", "courseName": "Chemistry for Engineers" },
-    {
-      "courseCode": "SBEN428",
-      "courseName": "Advanced Topics in Medical Standards and Accreditations"
-    },
-    { "courseCode": "MDPN354", "courseName": "Machine Design II" },
-    { "courseCode": "EPES421", "courseName": "Electrical Machines Drives" },
-    {
-      "courseCode": "STRS324",
-      "courseName": "Construction Project Management"
-    },
-    { "courseCode": "ARCS206", "courseName": "Architectural Design-2" },
-    { "courseCode": "STRN303", "courseName": "Reinforced Concrete Design II" },
-    { "courseCode": "MDPN424", "courseName": "Project Management" },
-    {
-      "courseCode": "AERN215",
-      "courseName": "Engineering Standards and Specifications"
-    },
-    {
-      "courseCode": "AERN421",
-      "courseName": "Aircraft Maintenance Systems Engineering"
-    },
-    { "courseCode": "MCNS101", "courseName": "Thermodynamics" },
-    { "courseCode": "MDPS352", "courseName": "Machine Design" },
-    { "courseCode": "EPES402", "courseName": "Power System Analysis" },
-    { "courseCode": "GENS235", "courseName": "Business Communication" },
-    {
-      "courseCode": "AERN321",
-      "courseName": "Hydraulic and Pneumatic Systems"
-    },
-    { "courseCode": "SBEN315", "courseName": "Quantitative Management" },
-    {
-      "courseCode": "ARCS335",
-      "courseName": "Community Design and Social Development"
-    },
-    {
-      "courseCode": "STRS321",
-      "courseName": "Economic Strategies in Construction Industry"
-    },
-    { "courseCode": "ARCS208", "courseName": "Site Planning and Development" },
-    {
-      "courseCode": "CHES210",
-      "courseName": "Data Science in Chemical Engineering"
-    },
-    { "courseCode": "SBES152", "courseName": "Biomedical Signal Processing" },
-    {
-      "courseCode": "ARCS216",
-      "courseName": "Introduction to Cad System for Civil Engineering"
-    },
-    { "courseCode": "AERN214", "courseName": "System Dynamics and modeling" },
-    { "courseCode": "IHDN302", "courseName": "Irrigation Design Works-1" },
-    {
-      "courseCode": "SBEN325",
-      "courseName": "Biomedical Systems Modeling & Simulation"
-    },
-    { "courseCode": "EPMN303", "courseName": "Industrial Instrumentation" },
-    { "courseCode": "MEPN415", "courseName": "Power Generation" },
-    { "courseCode": "MDPS261", "courseName": "Stress Analysis" },
-    { "courseCode": "MTHS114", "courseName": "Numerical Analysis" },
-    { "courseCode": "CEMN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "MEPS305",
-      "courseName": "Applied Control Technologies for Energy System"
-    },
-    {
-      "courseCode": "AERN418",
-      "courseName": "Introduction to Microcontroller"
-    },
-    { "courseCode": "EEES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "STRN444", "courseName": "Special Concrete Structures" },
-    { "courseCode": "EECS316", "courseName": "Communications-2" },
-    { "courseCode": "STRS302", "courseName": "Steel Structures Design I" },
-    {
-      "courseCode": "ARCS334",
-      "courseName": "Selected Topics in Architecture and Urban Design"
-    },
-    { "courseCode": "IHDS204", "courseName": "Civil Engineering Drawing" },
-    {
-      "courseCode": "MDPS251",
-      "courseName": "Kinematics of Machine Components"
-    },
-    { "courseCode": "MDPS133", "courseName": "Materials for Mechatronics" },
-    {
-      "courseCode": "CHEN302",
-      "courseName": "Instrumentation and Process Control"
-    },
-    { "courseCode": "SBEN316", "courseName": "Medical Device Technologies" },
     {
       "courseCode": "IHDN403",
       "courseName": "Field Measurements and Water Quality Aspects"
     },
+    { "courseCode": "CCES481", "courseName": "Graduation Project-1" },
     {
-      "courseCode": "CMPS446",
-      "courseName": "Image Processing and Computer Vision"
+      "courseCode": "EECS202",
+      "courseName": "Operational Amplifiers circuits and applications"
     },
-    { "courseCode": "CHES201", "courseName": "Fluid Mechanics" },
-    {
-      "courseCode": "EECS201",
-      "courseName": "Electronics-2: Analog and Digital Electronics"
-    },
-    {
-      "courseCode": "IHDS309",
-      "courseName": "Water Chemistry and Microbiology"
-    },
-    { "courseCode": "ARCS301", "courseName": "Architectural Design-4" },
-    { "courseCode": "CMPS454", "courseName": "Natural Language Processing" },
-    {
-      "courseCode": "GENS120",
-      "courseName": "Fundamentals of Economics and Accounting"
-    },
-    { "courseCode": "MDPN468", "courseName": "Quality Engineering" },
-    { "courseCode": "PEN410", "courseName": "Oil Well Drilling-3" },
-    {
-      "courseCode": "STRN428",
-      "courseName": "Introduction to construction Contracts and Contract Administration"
-    },
-    {
-      "courseCode": "GENS009",
-      "courseName": "Introduction to Design Thinking"
-    },
-    {
-      "courseCode": "EECS101",
-      "courseName": "Electronics-1: Basic Electronic Circuits"
-    },
-    { "courseCode": "SBEN311", "courseName": "Biomedical Signal Processing" },
-    { "courseCode": "ARCS402", "courseName": "Building Construction-4" },
-    { "courseCode": "EPES425", "courseName": "Process Control and Robotics" },
-    { "courseCode": "AERS213", "courseName": "Fundamentals of Thermodynamics" },
-    {
-      "courseCode": "EPES201",
-      "courseName": "Electrical Engineering Fundamentals"
-    },
-    { "courseCode": "GENS205", "courseName": "Advanced Risk Management" },
-    { "courseCode": "STRN341", "courseName": "Masonry Structures" },
-    { "courseCode": "CMPS401", "courseName": "Advanced Database Systems" },
-    { "courseCode": "GENN380", "courseName": "Thesis Writing for GP" },
-    { "courseCode": "SBEN445", "courseName": "Assistive Technologies" },
-    { "courseCode": "EPES302", "courseName": "Elements of Power Systems" },
     { "courseCode": "MEPN403", "courseName": "Heat Exchangers Design" },
-    { "courseCode": "EPES406", "courseName": "High Voltage Technology" },
-    { "courseCode": "GENS209", "courseName": "Selections of Life Long Skills" },
-    { "courseCode": "SBEN416", "courseName": "Medical Imaging Modalities" },
-    { "courseCode": "MCNS202", "courseName": "Fluid Mechanics" },
-    {
-      "courseCode": "STRN433",
-      "courseName": "Structural Mechanics and Stability"
-    },
-    {
-      "courseCode": "PES201",
-      "courseName": "Introduction to Petroleum Industry"
-    },
-    { "courseCode": "EECS203", "courseName": "Signal Analysis" },
-    { "courseCode": "AEMN480", "courseName": "Graduation Project-1" },
-    { "courseCode": "WEEN480", "courseName": "Graduation Project-1" },
-    { "courseCode": "PBWN302", "courseName": "Soil Mechanics" },
-    {
-      "courseCode": "STRN325",
-      "courseName": "Construction Methods & Equipment"
-    },
-    { "courseCode": "CMPN425", "courseName": "Computer System Consultation" },
-    { "courseCode": "STRN449", "courseName": "Organization Management" },
-    { "courseCode": "STRS101", "courseName": "Structural Analysis-1" },
-    { "courseCode": "CMPS103", "courseName": "Data Structures and Algorithms" },
-    {
-      "courseCode": "MEPN421",
-      "courseName": "Air Conditioning Design, Selection, Operation and Trouble shooting"
-    },
-    { "courseCode": "AETN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "MDPN476",
-      "courseName": "Mobile Robotics and Autonomous Systems"
-    },
-    { "courseCode": "CMPS201", "courseName": "Microprocessor Systems" },
-    { "courseCode": "PES301", "courseName": "Reservoir Engineering" },
-    { "courseCode": "STRN445", "courseName": "Steel Structures Design III" },
-    { "courseCode": "MDPN410", "courseName": "Mechanical Design Lab" },
-    {
-      "courseCode": "SBES130",
-      "courseName": "Basics of Computer Architecture"
-    },
-    { "courseCode": "STEN280", "courseName": "Engineering Seminar" },
-    {
-      "courseCode": "GENN210",
-      "courseName": "Risk Management and Environment"
-    },
-    { "courseCode": "ARCS205", "courseName": "Building Technologies-1" },
-    { "courseCode": "MEPN444", "courseName": "Energy Efficiency" },
-    { "courseCode": "CCES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "IEMN480", "courseName": "Graduation Project-1" },
-    {
-      "courseCode": "PEN405",
-      "courseName": "Petroleum Legislations and Economics"
-    },
-    { "courseCode": "PPCN480", "courseName": "Graduation Project-1" },
-    { "courseCode": "IHDN305", "courseName": "Applied Hydrology" },
-    { "courseCode": "AERN413", "courseName": "Aircraft Engine Systems" },
-    { "courseCode": "MDPN474", "courseName": "Automatic Control II" },
-    { "courseCode": "MEPN433", "courseName": "Laboratory of Energy Systems." },
-    { "courseCode": "MEPS219", "courseName": "Mechanical Power Engineering" },
-    {
-      "courseCode": "CHEN403",
-      "courseName": "Chemical Reactor and Vessel Design"
-    },
-    {
-      "courseCode": "SBEN454",
-      "courseName": "Data Mining and Machine Learning in Healthcare"
-    },
-    {
-      "courseCode": "SBEN419",
-      "courseName": "Operations Research in Healthcare"
-    },
-    { "courseCode": "EPES303", "courseName": "Electric Drive Systems" },
-    { "courseCode": "CHES305", "courseName": "Chemical Reactor Design" },
-    {
-      "courseCode": "ARCS105",
-      "courseName": "Introduction to Building Construction and Environmental Design"
-    },
-    { "courseCode": "CCEN380", "courseName": "Seminar-2" },
     {
       "courseCode": "CMPS205",
       "courseName": "Computer Graphics and Man Machine Interfacing"
     },
     {
-      "courseCode": "STRN452",
-      "courseName": "Information Technology in Construction"
+      "courseCode": "EPES201",
+      "courseName": "Electrical Engineering Fundamentals"
     },
-    { "courseCode": "EPES306", "courseName": "Power Electronics (1)" },
-    { "courseCode": "MDPN262", "courseName": "Mechanics of Solids" },
-    { "courseCode": "ELCN406", "courseName": "Communications-3" },
+    { "courseCode": "PEN409", "courseName": "Well Stimulation" },
+    { "courseCode": "MDPS352", "courseName": "Machine Design" },
+    {
+      "courseCode": "CMPS111",
+      "courseName": "Advanced Logic Design and Testing"
+    },
+    { "courseCode": "ARCS107", "courseName": "Architectural Design-2" },
+    { "courseCode": "EPES421", "courseName": "Electrical Machines Drives" },
+    { "courseCode": "MEPN472", "courseName": "Automatic Control" },
+    { "courseCode": "MCNS101", "courseName": "Thermodynamics" },
     { "courseCode": "WEES280", "courseName": "Engineering Seminar" },
-    { "courseCode": "EEES481", "courseName": "Graduation Project-1" },
-    { "courseCode": "AEMN280", "courseName": "Engineering Seminar" },
-    {
-      "courseCode": "EECS202",
-      "courseName": "Operational Amplifiers circuits and applications"
-    },
-    {
-      "courseCode": "EMCS201",
-      "courseName": "Engineering Mechanics-3-Rigid Body Dynamics"
-    },
+    { "courseCode": "PES202", "courseName": "General Geology" },
     { "courseCode": "GENS236", "courseName": "Service Management" },
+    { "courseCode": "EPES402", "courseName": "Power System Analysis" },
+    { "courseCode": "EPES403", "courseName": "Power System Protection" },
+    { "courseCode": "PEN410", "courseName": "Oil Well Drilling-3" },
     {
-      "courseCode": "SBEN328",
-      "courseName": "Medical Standards and Accreditations"
-    },
-    {
-      "courseCode": "PBWN201",
-      "courseName": "Water and Waste Water Engineering"
-    },
-    { "courseCode": "EECS102", "courseName": "Circuits-1" },
-    {
-      "courseCode": "MEPN416",
-      "courseName": "Air and Water Pollution and Quality Monitoring"
-    },
-    {
-      "courseCode": "CMPS407",
-      "courseName": "Computer Modeling and Simulations"
+      "courseCode": "ARCS105",
+      "courseName": "Introduction to Building Construction and Environmental Design"
     },
     {
       "courseCode": "CHEN301",
       "courseName": "Mass Transfer and Separation Processes-1"
     },
-    { "courseCode": "MTHS004", "courseName": "Discrete Mathematics" },
+    { "courseCode": "GENS001", "courseName": "Critical and Creative Thinking" },
+    { "courseCode": "CMPS401", "courseName": "Advanced Database Systems" },
     {
-      "courseCode": "EMCS001",
-      "courseName": "Engineering Mechanics- Dynamics"
+      "courseCode": "AERN425",
+      "courseName": "Airline Operation and Management"
     },
-    { "courseCode": "STRN441", "courseName": "Reinforced Concrete Design III" },
+    { "courseCode": "CHES101", "courseName": "Organic Chemistry-1" },
+    {
+      "courseCode": "CMPS202",
+      "courseName": "Introduction to Database Management Systems"
+    },
+    { "courseCode": "IHDN401", "courseName": "Coastal and Harbor Engineering" },
+    { "courseCode": "EPMN413", "courseName": "Energy Conservation" },
+    { "courseCode": "ARCS432", "courseName": "Geometric Modeling" },
+    { "courseCode": "STEN481", "courseName": "Graduation Project-2" },
+    { "courseCode": "STRS312", "courseName": "Steel Structures" },
+    { "courseCode": "STRS205", "courseName": "Human Resources Management" },
+    { "courseCode": "CHEN401", "courseName": "Petroleum Refining Engineering" },
+    { "courseCode": "MDPS133", "courseName": "Materials for Mechatronics" },
+    {
+      "courseCode": "MEPS305",
+      "courseName": "Applied Control Technologies for Energy System"
+    },
+    {
+      "courseCode": "GENN401",
+      "courseName": "Project Planning, Implementation and Economics"
+    },
+    {
+      "courseCode": "PES201",
+      "courseName": "Introduction to Petroleum Industry"
+    },
+    { "courseCode": "ARCS202", "courseName": "Building Construction-1" },
     { "courseCode": "GENS202", "courseName": "Advanced Critical Thinking" },
-    { "courseCode": "EPES125", "courseName": "Electrical Power Engineering" },
-    {
-      "courseCode": "SBES122",
-      "courseName": "Anatomy & Physiology for Engineers"
-    },
-    { "courseCode": "EPES404", "courseName": "Digital Control Systems" },
-    { "courseCode": "EPES204", "courseName": "Energy Conversion" },
-    {
-      "courseCode": "MDPN469",
-      "courseName": "Systems Modelling and Simulation"
-    },
-    { "courseCode": "SEEN280", "courseName": "Engineering Seminar" },
-    { "courseCode": "EECS304", "courseName": "Control-1" },
-    { "courseCode": "CHES301", "courseName": "Unit Operations" },
-    { "courseCode": "STRN304", "courseName": "Steel Structures Design II" },
-    { "courseCode": "SBES153", "courseName": "Biomedical Transducers" },
-    { "courseCode": "MDPN467", "courseName": "Production Management" },
-    {
-      "courseCode": "MEPS203",
-      "courseName": "Fundamentals of Combustion Systems"
-    },
     {
       "courseCode": "INTS125",
       "courseName": "Introduction to Mechanical Engineering"
     },
-    { "courseCode": "EECS205", "courseName": "Electromagnetics-1" },
-    { "courseCode": "EPES417", "courseName": "Renewable Energy Systems" },
+    { "courseCode": "PES301", "courseName": "Reservoir Engineering" },
+    { "courseCode": "IHDS307", "courseName": "Introduction to Climate Change" },
+    {
+      "courseCode": "CHEN402",
+      "courseName": "Petrochemicals from Oil and Gas"
+    },
+    {
+      "courseCode": "CHES402",
+      "courseName": "Petrochemicals from Oil and Gas"
+    },
+    { "courseCode": "ARCS380", "courseName": "Architecture and Design Theory" },
+    { "courseCode": "MDPN410", "courseName": "Mechanical Design Lab" },
+    { "courseCode": "PBWN301", "courseName": "Highway Engineering" },
+    { "courseCode": "MEPN404", "courseName": "Nuclear Energy" },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting"
+    },
+    { "courseCode": "EECS304", "courseName": "Control-1" },
+    { "courseCode": "AERN211", "courseName": "Gas Dynamics" },
+    { "courseCode": "STRN341", "courseName": "Masonry Structures" },
+    { "courseCode": "EPES416", "courseName": "Power Stations" },
+    { "courseCode": "ARCS307", "courseName": "Architectural Design-5" },
+    { "courseCode": "PBWN302", "courseName": "Soil Mechanics" },
+    { "courseCode": "CMPS201", "courseName": "Microprocessor Systems" },
+    { "courseCode": "GENS235", "courseName": "Business Communication" },
+    { "courseCode": "MDPN362", "courseName": "Operation research I" },
+    { "courseCode": "MTHS002", "courseName": "Calculus I" },
+    { "courseCode": "ARCS440", "courseName": "Landscape Architecture" },
+    { "courseCode": "AERN413", "courseName": "Aircraft Engine Systems" },
+    {
+      "courseCode": "GENS004",
+      "courseName": "Proficiency and Capacity Building"
+    },
+    { "courseCode": "MDPN467", "courseName": "Production Management" },
+    { "courseCode": "EPES302", "courseName": "Elements of Power Systems" },
+    {
+      "courseCode": "EMCS001",
+      "courseName": "Engineering Mechanics- Dynamics"
+    },
+    {
+      "courseCode": "PEN405",
+      "courseName": "Petroleum Legislations and Economics"
+    },
+    {
+      "courseCode": "AERN421",
+      "courseName": "Aircraft Maintenance Systems Engineering"
+    },
+    { "courseCode": "ARCS301", "courseName": "Architectural Design-4" },
+    { "courseCode": "GENS206", "courseName": "Technical Writing in Arabic" },
+    { "courseCode": "GENN380", "courseName": "Thesis Writing for GP" },
+    {
+      "courseCode": "MDPN469",
+      "courseName": "Systems Modelling and Simulation"
+    },
+    { "courseCode": "EPES405", "courseName": "Power Electronics (2)" },
+    { "courseCode": "MDPN372", "courseName": "Control System Dynamics" },
+    { "courseCode": "EPES404", "courseName": "Digital Control Systems" },
+    { "courseCode": "PHYS002", "courseName": "Electricity and Magnetism" },
+    {
+      "courseCode": "ARCS333",
+      "courseName": "Building Technologies-3 Energy in Building Design"
+    },
+    { "courseCode": "STRS203", "courseName": "Engineering Materials" },
+    { "courseCode": "IEMN480", "courseName": "Graduation Project-1" },
     {
       "courseCode": "PBWN446",
       "courseName": "Deep Excavation and Side Support"
     },
-    { "courseCode": "MEPN404", "courseName": "Nuclear Energy" },
-    { "courseCode": "EECS100", "courseName": "Laboratory" },
-    { "courseCode": "MDEN481", "courseName": "Graduation Project-2" },
-    { "courseCode": "IHDN401", "courseName": "Coastal and Harbor Engineering" },
-    { "courseCode": "ARCS307", "courseName": "Architectural Design-5" },
+    { "courseCode": "EECS205", "courseName": "Electromagnetics-1" },
+    { "courseCode": "STRN449", "courseName": "Organization Management" },
+    { "courseCode": "STRS301", "courseName": "Reinforced Concrete Design I" },
+    { "courseCode": "EPES204", "courseName": "Energy Conversion" },
     {
-      "courseCode": "SBES120",
-      "courseName": "Introduction to Biomedical Engineering"
-    },
-    { "courseCode": "EPES403", "courseName": "Power System Protection" },
-    {
-      "courseCode": "INTN205",
-      "courseName": "Mechanical and Electrical Systems"
-    },
-    { "courseCode": "CMPS118", "courseName": "Introduction to Logic Design" },
-    { "courseCode": "PHYS002", "courseName": "Electricity and Magnetism" },
-    { "courseCode": "INTS201", "courseName": "Electrical Engineering" },
-    { "courseCode": "STRS215", "courseName": "Enginering Computations" },
-    {
-      "courseCode": "MDPN332",
-      "courseName": "Computer Aided Design and Manufacturing"
+      "courseCode": "AERN418",
+      "courseName": "Introduction to Microcontroller"
     },
     {
       "courseCode": "STRN345",
       "courseName": "Infrastructure Asset Management"
     },
+    { "courseCode": "AERN212", "courseName": "Analysis of Structures" },
+    { "courseCode": "CMPS102", "courseName": "Programming Techniques" },
+    { "courseCode": "STRN444", "courseName": "Special Concrete Structures" },
+    { "courseCode": "EECS203", "courseName": "Signal Analysis" },
+    {
+      "courseCode": "PBWN201",
+      "courseName": "Water and Waste Water Engineering"
+    },
     { "courseCode": "AERN216", "courseName": "Aviation Economics" },
-    { "courseCode": "STRS203", "courseName": "Engineering Materials" },
-    { "courseCode": "CMPS303", "courseName": "Operating Systems" },
-    { "courseCode": "GENS341", "courseName": "Operation Research" },
-    { "courseCode": "PEN403", "courseName": "Natural Gas Engineering-2" },
     {
-      "courseCode": "IHDN352",
-      "courseName": "Non-Conventional Water Resources"
+      "courseCode": "ARCS101",
+      "courseName": "Introduction to the History of Architecture"
     },
-    { "courseCode": "EPES307", "courseName": "Electrical Measurements" },
     {
-      "courseCode": "MTHS005",
-      "courseName": "Introduction to Probability and Statistics"
+      "courseCode": "AERN331",
+      "courseName": "Introduction to Composite materials"
     },
-    { "courseCode": "EPES414", "courseName": "Smart Power Grid" },
-    { "courseCode": "MEPN412", "courseName": "Energy Storage" },
+    { "courseCode": "EPES203", "courseName": "Electromagnetic Fields" },
+    { "courseCode": "EPES425", "courseName": "Process Control and Robotics" },
+    { "courseCode": "SBEN416", "courseName": "Medical Imaging Modalities" },
+    { "courseCode": "SBES152", "courseName": "Biomedical Signal Processing" },
     {
-      "courseCode": "GENN201",
-      "courseName": "Communication and Presentation Skills"
+      "courseCode": "EECS306",
+      "courseName": "Communications-1: Analogue Communications"
     },
-    { "courseCode": "INTS001", "courseName": "Engineering Graphics" },
-    {
-      "courseCode": "MEPS231",
-      "courseName": "Laboratory of Mechanical Engineering"
-    },
-    { "courseCode": "ARCS432", "courseName": "Geometric Modeling" },
-    { "courseCode": "EPES308", "courseName": "Automatic Control Systems" },
-    { "courseCode": "EEEN380", "courseName": "Seminar-2" },
-    {
-      "courseCode": "AERS212",
-      "courseName": "Materials Science for Engineering"
-    },
-    { "courseCode": "ARCS440", "courseName": "Landscape Architecture" },
-    { "courseCode": "STRN423", "courseName": "Financial Management" },
-    { "courseCode": "PES202", "courseName": "General Geology" },
-    { "courseCode": "MDPS132", "courseName": "Materials Science" },
-    {
-      "courseCode": "PEN301",
-      "courseName": "Petroleum Exploration Engineering"
-    },
-    { "courseCode": "MDPN372", "courseName": "Control System Dynamics" },
-    {
-      "courseCode": "STRN461",
-      "courseName": "Special Topics in Structural Engineering"
-    },
+    { "courseCode": "STEN280", "courseName": "Engineering Seminar" },
+    { "courseCode": "CMPN425", "courseName": "Computer System Consultation" },
     {
       "courseCode": "SBEN417",
       "courseName": "Healthcare Facilities Planning and Design"
     },
-    { "courseCode": "STRS204", "courseName": "Mechanics of Materials" },
-    { "courseCode": "MDPN363", "courseName": "Finite Element Analysis" },
-    { "courseCode": "ARCS406", "courseName": "Architectural Design-6" },
-    { "courseCode": "EECS112", "courseName": "Circuits-2" },
+    { "courseCode": "STRN441", "courseName": "Reinforced Concrete Design III" },
+    {
+      "courseCode": "MEPS231",
+      "courseName": "Laboratory of Mechanical Engineering"
+    },
+    {
+      "courseCode": "ARCS308",
+      "courseName": "Architectural Acoustics and Day-lighting"
+    },
+    { "courseCode": "MDPN479", "courseName": "Special Topics in Mechatronics" },
+    { "courseCode": "GENS205", "courseName": "Advanced Risk Management" },
+    { "courseCode": "MEPS219", "courseName": "Mechanical Power Engineering" },
+    {
+      "courseCode": "STRN433",
+      "courseName": "Structural Mechanics and Stability"
+    },
+    { "courseCode": "SBEN311", "courseName": "Biomedical Signal Processing" },
+    {
+      "courseCode": "EECS101",
+      "courseName": "Electronics-1: Basic Electronic Circuits"
+    },
+    { "courseCode": "STRN423", "courseName": "Financial Management" },
+    { "courseCode": "MDPN468", "courseName": "Quality Engineering" },
+    { "courseCode": "EEES481", "courseName": "Graduation Project-1" },
+    { "courseCode": "MDPN331", "courseName": "Engineering Operation Research" },
     {
       "courseCode": "STRN465",
       "courseName": "Inspection and Maintenance of Structures"
+    },
+    { "courseCode": "ARCS402", "courseName": "Building Construction-4" },
+    {
+      "courseCode": "PBWN445",
+      "courseName": "GIS and Remote Sensing Applications"
+    },
+    { "courseCode": "MEPN433", "courseName": "Laboratory of Energy Systems." },
+    {
+      "courseCode": "ARCS216",
+      "courseName": "Introduction to Cad System for Civil Engineering"
+    },
+    { "courseCode": "MDEN481", "courseName": "Graduation Project-2" },
+    { "courseCode": "STRS101", "courseName": "Structural Analysis-1" },
+    {
+      "courseCode": "GENS237",
+      "courseName": "Ethics & Legislation In Construction Industry"
+    },
+    { "courseCode": "EPES307", "courseName": "Electrical Measurements" },
+    { "courseCode": "STRN304", "courseName": "Steel Structures Design II" },
+    {
+      "courseCode": "SBEN454",
+      "courseName": "Data Mining and Machine Learning in Healthcare"
+    },
+    { "courseCode": "CMPS303", "courseName": "Operating Systems" },
+    {
+      "courseCode": "CHEN302",
+      "courseName": "Instrumentation and Process Control"
+    },
+    { "courseCode": "MDPN471", "courseName": "Mechanical Vibrations" },
+    { "courseCode": "MDPN424", "courseName": "Project Management" },
+    { "courseCode": "CIEN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "SBEN445", "courseName": "Assistive Technologies" },
+    { "courseCode": "MDPN363", "courseName": "Finite Element Analysis" },
+    {
+      "courseCode": "ARCS336",
+      "courseName": "Architecture, Culture & Heritage"
+    },
+    { "courseCode": "STRS302", "courseName": "Steel Structures Design I" },
+    { "courseCode": "CMPS402", "courseName": "Machine Intelligence" },
+    {
+      "courseCode": "CHEN403",
+      "courseName": "Chemical Reactor and Vessel Design"
+    },
+    { "courseCode": "EPES200", "courseName": "Basic Laboratory" },
+    { "courseCode": "MDPS132", "courseName": "Materials Science" },
+    { "courseCode": "ARCS205", "courseName": "Building Technologies-1" },
+    { "courseCode": "MDPN473", "courseName": "Automatic Control I" },
+    { "courseCode": "MCNN327", "courseName": "Heat and Mass Transfer" },
+    { "courseCode": "PBWN303", "courseName": "Foundations" },
+    { "courseCode": "AETN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "STRS204", "courseName": "Mechanics of Materials" },
+    {
+      "courseCode": "MEPS201",
+      "courseName": "Internal Combustion Engines (Theory and Development)"
+    },
+    {
+      "courseCode": "MEPS203",
+      "courseName": "Fundamentals of Combustion Systems"
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment"
+    },
+    { "courseCode": "SBES131", "courseName": "Clinical Engineering" },
+    {
+      "courseCode": "INTN205",
+      "courseName": "Mechanical and Electrical Systems"
+    },
+    { "courseCode": "EPES417", "courseName": "Renewable Energy Systems" },
+    {
+      "courseCode": "STRN408",
+      "courseName": "Structural Dynamics and Vibrations"
+    },
+    { "courseCode": "CMPS405", "courseName": "Computer Networks-1" },
+    { "courseCode": "ELCN406", "courseName": "Communications-3" },
+    { "courseCode": "IHDN302", "courseName": "Irrigation Design Works-1" },
+    {
+      "courseCode": "IHDS301",
+      "courseName": "Introduction to Water Resources Engineering"
+    },
+    {
+      "courseCode": "ARCS106",
+      "courseName": "Deigital Representation for Architects"
+    },
+    { "courseCode": "CHEN202", "courseName": "Fluid Mechanics" },
+    { "courseCode": "PHYS102", "courseName": "Modern Physics" },
+    { "courseCode": "STRN445", "courseName": "Steel Structures Design III" },
+    {
+      "courseCode": "CHES210",
+      "courseName": "Data Science in Chemical Engineering"
+    },
+    {
+      "courseCode": "MTHS102",
+      "courseName": "Linear Algebra and Multivariable Integrals"
+    },
+    { "courseCode": "GENS209", "courseName": "Selections of Life Long Skills" },
+    {
+      "courseCode": "EMCS201",
+      "courseName": "Engineering Mechanics-3-Rigid Body Dynamics"
+    },
+    { "courseCode": "EPES303", "courseName": "Electric Drive Systems" },
+    { "courseCode": "PEN302", "courseName": "Reservoir Engineering-1" },
+    { "courseCode": "EEES482", "courseName": "Graduation Project-2" },
+    { "courseCode": "METN401", "courseName": "Electrochemistry and Corrosion" },
+    { "courseCode": "CVES125", "courseName": "Civil Engineering" },
+    { "courseCode": "MDPN457", "courseName": "Fluid Power Systems" },
+    { "courseCode": "MEPN415", "courseName": "Power Generation" },
+    { "courseCode": "STRN303", "courseName": "Reinforced Concrete Design II" },
+    {
+      "courseCode": "PHYS001",
+      "courseName": "Mechanical Properties of Matter and Thermodynamics"
+    },
+    { "courseCode": "AERN214", "courseName": "System Dynamics and modeling" },
+    {
+      "courseCode": "STRS321",
+      "courseName": "Economic Strategies in Construction Industry"
+    },
+    { "courseCode": "EPES311", "courseName": "Microprocessors Applications" },
+    { "courseCode": "ELCS103", "courseName": "Circuit Analysis" },
+    { "courseCode": "AEMN480", "courseName": "Graduation Project-1" },
+    {
+      "courseCode": "GENS009",
+      "courseName": "Introduction to Design Thinking"
+    },
+    { "courseCode": "STRN422", "courseName": "Cost Engineering" },
+    { "courseCode": "MTHS004", "courseName": "Discrete Mathematics" },
+    {
+      "courseCode": "MEPN416",
+      "courseName": "Air and Water Pollution and Quality Monitoring"
+    },
+    { "courseCode": "PEN403", "courseName": "Natural Gas Engineering-2" },
+    { "courseCode": "CEMN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "INTS201", "courseName": "Electrical Engineering" },
+    {
+      "courseCode": "STRN325",
+      "courseName": "Construction Methods & Equipment"
+    },
+    {
+      "courseCode": "PBWN407",
+      "courseName": "Advanced Water and Wastewater Treatment Technologies"
     },
     {
       "courseCode": "STRN306",
       "courseName": "Properties and Strength of Concrete II"
     },
+    { "courseCode": "EECS100", "courseName": "Laboratory" },
+    { "courseCode": "PPCN480", "courseName": "Graduation Project-1" },
     {
-      "courseCode": "AERN425",
-      "courseName": "Airline Operation and Management"
+      "courseCode": "SBES161",
+      "courseName": "Medical Monitors & Life Support Equipment"
     },
-    { "courseCode": "ARCS107", "courseName": "Architectural Design-2" },
-    { "courseCode": "EPES424", "courseName": "Mechatronics" },
-    { "courseCode": "EPES311", "courseName": "Microprocessors Applications" },
-    { "courseCode": "MDPN470", "courseName": "Mechatronics Lab" },
-    { "courseCode": "METN401", "courseName": "Electrochemistry and Corrosion" },
-    { "courseCode": "EEES482", "courseName": "Graduation Project-2" },
-    { "courseCode": "CHEN202", "courseName": "Fluid Mechanics" },
-    { "courseCode": "MEPN472", "courseName": "Automatic Control" },
     {
-      "courseCode": "PHYS001",
-      "courseName": "Mechanical Properties of Matter and Thermodynamics"
-    }
+      "courseCode": "MDPN361",
+      "courseName": "Engineering Economy and Cost Accounting"
+    },
+    { "courseCode": "AERS213", "courseName": "Fundamentals of Thermodynamics" },
+    {
+      "courseCode": "MDPN476",
+      "courseName": "Mobile Robotics and Autonomous Systems"
+    },
+    {
+      "courseCode": "SBES122",
+      "courseName": "Anatomy & Physiology for Engineers"
+    },
+    { "courseCode": "MDPS217", "courseName": "Machine Drawing" },
+    {
+      "courseCode": "MDPN461",
+      "courseName": "Computer Integrated Manufacturing CIM"
+    },
+    { "courseCode": "AERN313", "courseName": "Aircraft Engine Performance" },
+    {
+      "courseCode": "MDPS251",
+      "courseName": "Kinematics of Machine Components"
+    },
+    { "courseCode": "CHES001", "courseName": "Chemistry for Engineers" },
+    { "courseCode": "EPES424", "courseName": "Mechatronics" },
+    {
+      "courseCode": "STRN322",
+      "courseName": "Construction Planning and Scheduling"
+    },
+    {
+      "courseCode": "CMPS407",
+      "courseName": "Computer Modeling and Simulations"
+    },
+    { "courseCode": "CCEN380", "courseName": "Seminar-2" },
+    { "courseCode": "INTS005", "courseName": "Information Technology" },
+    { "courseCode": "GENS203", "courseName": "Entrepreneurship" },
+    { "courseCode": "ARCS302", "courseName": "Building Construction-2" },
+    {
+      "courseCode": "CHEN406",
+      "courseName": "Advanced Statistics for Petrochemical Industries"
+    },
+    { "courseCode": "SEEN480", "courseName": "Graduation Project (I)" },
+    { "courseCode": "AEMN280", "courseName": "Engineering Seminar" },
+    { "courseCode": "MEES280", "courseName": "Engineering Seminar" },
+    {
+      "courseCode": "MDPN332",
+      "courseName": "Computer Aided Design and Manufacturing"
+    },
+    { "courseCode": "SBEN316", "courseName": "Medical Device Technologies" },
+    { "courseCode": "SBES153", "courseName": "Biomedical Transducers" },
+    { "courseCode": "INTS001", "courseName": "Engineering Graphics" },
+    {
+      "courseCode": "STRN461",
+      "courseName": "Special Topics in Structural Engineering"
+    },
+    { "courseCode": "MDPN474", "courseName": "Automatic Control II" },
+    { "courseCode": "EEEN380", "courseName": "Seminar-2" },
+    { "courseCode": "STEN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "MDPN354", "courseName": "Machine Design II" },
+    { "courseCode": "EECS102", "courseName": "Circuits-1" },
+    { "courseCode": "MDES280", "courseName": "Engineering Seminar" },
+    {
+      "courseCode": "SBES120",
+      "courseName": "Introduction to Biomedical Engineering"
+    },
+    { "courseCode": "MDPN262", "courseName": "Mechanics of Solids" },
+    { "courseCode": "MEPN444", "courseName": "Energy Efficiency" },
+    { "courseCode": "MEPN446", "courseName": "Turbo-machinery-II" },
+    { "courseCode": "MCNS202", "courseName": "Fluid Mechanics" },
+    {
+      "courseCode": "STRS111",
+      "courseName": "Structural Analysis-1 and mechanics of materials"
+    },
+    {
+      "courseCode": "MTHS005",
+      "courseName": "Introduction to Probability and Statistics"
+    },
+    { "courseCode": "ARCS406", "courseName": "Architectural Design-6" },
+    {
+      "courseCode": "SBES130",
+      "courseName": "Basics of Computer Architecture"
+    },
+    {
+      "courseCode": "CVEN361",
+      "courseName": "Special Topics in Civil Engineering"
+    },
+    { "courseCode": "CMPS302", "courseName": "Algorithms Design and Analysis" },
+    { "courseCode": "CHES301", "courseName": "Unit Operations" },
+    { "courseCode": "EPES304", "courseName": "Electrical Machines-2" },
+    { "courseCode": "EPES306", "courseName": "Power Electronics (1)" },
+    {
+      "courseCode": "SBES150",
+      "courseName": "Database Systems for Medical Data"
+    },
+    { "courseCode": "EPES427", "courseName": "Intelligent Control" },
+    { "courseCode": "SBES121", "courseName": "Medical Physics" },
+    { "courseCode": "EPES406", "courseName": "High Voltage Technology" },
+    { "courseCode": "MDPS241", "courseName": "Manufacturing Processes I" },
+    { "courseCode": "CMPS103", "courseName": "Data Structures and Algorithms" },
+    { "courseCode": "GENS208", "courseName": "Marketing" },
+    { "courseCode": "EPES125", "courseName": "Electrical Power Engineering" },
+    { "courseCode": "AERS211", "courseName": "Fluid Mechanics" },
+    { "courseCode": "EPES308", "courseName": "Automatic Control Systems" },
+    { "courseCode": "SBEN315", "courseName": "Quantitative Management" },
+    { "courseCode": "EPES301", "courseName": "Electrical Machines-1" },
+    {
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills"
+    },
+    { "courseCode": "CCES280", "courseName": "Engineering Seminar" },
+    { "courseCode": "PEN404", "courseName": "Well Logging" },
+    { "courseCode": "ARCS206", "courseName": "Architectural Design-2" },
+    { "courseCode": "EPES414", "courseName": "Smart Power Grid" },
+    {
+      "courseCode": "MEPN421",
+      "courseName": "Air Conditioning Design, Selection, Operation and Trouble shooting"
+    },
+    { "courseCode": "CHES201", "courseName": "Fluid Mechanics" },
+    {
+      "courseCode": "ARCS335",
+      "courseName": "Community Design and Social Development"
+    },
+    { "courseCode": "IHDS204", "courseName": "Civil Engineering Drawing" },
+    {
+      "courseCode": "AERN215",
+      "courseName": "Engineering Standards and Specifications"
+    },
+    { "courseCode": "STRS215", "courseName": "Enginering Computations" },
+    { "courseCode": "MDPS261", "courseName": "Stress Analysis" },
+    { "courseCode": "ARCS351", "courseName": "Art, Creativity and Design" },
+    {
+      "courseCode": "AERN321",
+      "courseName": "Hydraulic and Pneumatic Systems"
+    },
+    {
+      "courseCode": "GENN210",
+      "courseName": "Risk Management and Environment"
+    },
+    {
+      "courseCode": "IHDN352",
+      "courseName": "Non-Conventional Water Resources"
+    },
+    { "courseCode": "EECS316", "courseName": "Communications-2" },
+    { "courseCode": "EPMN303", "courseName": "Industrial Instrumentation" },
+    {
+      "courseCode": "PEN301",
+      "courseName": "Petroleum Exploration Engineering"
+    },
+    {
+      "courseCode": "SBEN466",
+      "courseName": "Business Process Mining and Enterprise Architecture"
+    },
+    { "courseCode": "CHES202", "courseName": "Physical Chemistry-1" },
+    {
+      "courseCode": "SBEN328",
+      "courseName": "Medical Standards and Accreditations"
+    },
+    {
+      "courseCode": "STRN452",
+      "courseName": "Information Technology in Construction"
+    },
+    { "courseCode": "MEPN412", "courseName": "Energy Storage" },
+    {
+      "courseCode": "CMPS446",
+      "courseName": "Image Processing and Computer Vision"
+    },
+    { "courseCode": "AERN312", "courseName": "Aircraft Structures" },
+    {
+      "courseCode": "STRS324",
+      "courseName": "Construction Project Management"
+    },
+    {
+      "courseCode": "STRN428",
+      "courseName": "Introduction to construction Contracts and Contract Administration"
+    },
+    {
+      "courseCode": "SBES151",
+      "courseName": "Measurements & Quantitative Experimentation"
+    },
+    { "courseCode": "EEES280", "courseName": "Engineering Seminar" },
+    { "courseCode": "MDPS242", "courseName": "Manufacturing Processes II" },
+    {
+      "courseCode": "SBEN226",
+      "courseName": "Medical Monitors & Life Support Equipment"
+    },
+    {
+      "courseCode": "SBEN325",
+      "courseName": "Biomedical Systems Modeling & Simulation"
+    },
+    { "courseCode": "CHES306", "courseName": "Process Control" },
+    { "courseCode": "CHES305", "courseName": "Chemical Reactor Design" },
+    { "courseCode": "IHDN305", "courseName": "Applied Hydrology" },
+    { "courseCode": "MTHS114", "courseName": "Numerical Analysis" },
+    {
+      "courseCode": "SBEN428",
+      "courseName": "Advanced Topics in Medical Standards and Accreditations"
+    },
+    {
+      "courseCode": "IHDS309",
+      "courseName": "Water Chemistry and Microbiology"
+    },
+    { "courseCode": "CHEN304", "courseName": "Unit Operations" },
+    { "courseCode": "WEEN480", "courseName": "Graduation Project-1" },
+    { "courseCode": "CMPS118", "courseName": "Introduction to Logic Design" },
+    { "courseCode": "CMPS454", "courseName": "Natural Language Processing" },
+    { "courseCode": "MDPN470", "courseName": "Mechatronics Lab" },
+    { "courseCode": "MDPN321", "courseName": "Machine Design" },
+    { "courseCode": "CEMN280", "courseName": "Engineering Seminar" },
+    {
+      "courseCode": "IHDN402",
+      "courseName": "Environmental and Municipal Hydraulics"
+    },
+    { "courseCode": "SEEN280", "courseName": "Engineering Seminar" },
+    { "courseCode": "GENS341", "courseName": "Operation Research" },
+    { "courseCode": "IHDS201", "courseName": "Fluid Mechanics" },
+    {
+      "courseCode": "AETS280",
+      "courseName": "Engineering Seminar- Introduction to Arch Theory"
+    },
+    {
+      "courseCode": "AERN311",
+      "courseName": "Aircraft Performance and Stability"
+    },
+    { "courseCode": "CMPS456", "courseName": "Mobile robotics" },
+    { "courseCode": "GENS210", "courseName": "Scientific Research Methods" },
+    { "courseCode": "MCNN326", "courseName": "Heat Transfer" },
+    {
+      "courseCode": "EECS201",
+      "courseName": "Electronics-2: Analog and Digital Electronics"
+    },
+    {
+      "courseCode": "SBEN419",
+      "courseName": "Operations Research in Healthcare"
+    },
+    {
+      "courseCode": "AERS212",
+      "courseName": "Materials Science for Engineering"
+    },
+    {
+      "courseCode": "ARCS334",
+      "courseName": "Selected Topics in Architecture and Urban Design"
+    },
+    { "courseCode": "ARCS208", "courseName": "Site Planning and Development" },
+    { "courseCode": "MTHS104", "courseName": "Differential Equations" },
+    { "courseCode": "EECS112", "courseName": "Circuits-2" }
   ]
 }
