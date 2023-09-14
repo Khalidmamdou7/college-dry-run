@@ -18,6 +18,28 @@ function TimeTable() {
     };
     const coursesTimeslots = [
         {
+            courseCode: "CMPN307",
+            courseName: "Operating Systems",
+            group: "1",
+            day: "Wednesday",
+            type: "Tutorial",
+            from: "12:00",
+            to: "14:50",
+            duration: "3",
+            timeFrom8am: 4,
+        },
+        {
+            courseCode: "CMPN391",
+            courseName: "Operating Systems",
+            group: "1",
+            day: "Tuesday",
+            type: "Tutorial",
+            from: "12:00",
+            to: "15:50",
+            duration: "4",
+            timeFrom8am: 4,
+        },
+        {
             courseCode: "CMPN111",
             courseName: "Logic II",
             group: "1",
@@ -43,7 +65,7 @@ function TimeTable() {
             courseCode: "CMPN301",
             courseName: "Operating Systems",
             group: "1",
-            day: "Sunday",
+            day: "Thursday",
             type: "Tutorial",
             from: "12:00",
             to: "14:50",
