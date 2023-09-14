@@ -29,8 +29,12 @@
     height: 100%;
 }
 
-.course-selection-container {
-    background-color: red;
+.courses-selector-container {
     width: 20%;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
 }
