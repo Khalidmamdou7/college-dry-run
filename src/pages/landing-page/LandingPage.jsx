@@ -9,7 +9,7 @@ function LandingPage() {
 
             <div className={styles['landing-page-footer']}>
 
-                <p>Based on the latest Registration Status Report Data: 11:30 pm 14/9</p>
+                <p>Based on the latest Registration Status Report Data: 10:30 pm 17/9</p>
                 <p>Developed by <a href="https://www.linkedin.com/in/khalidmamdou7/">Khaled Mamdouh</a> and <a href="https://www.linkedin.com/in/omar-al-sharif/">Omar Al Sharif</a></p>
                 <p>Feel free to contribute to the <a href="https://github.com/Khalidmamdou7/college-dry-run">Github Repository</a></p>
             </div>
