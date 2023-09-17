@@ -3,26 +3,44 @@ import React, { useState } from 'react';
 
 function TimeTable(props) {
 
-    const [selectedCourses, setSelectedCourses] = useState([]);
+    const [selectedTimeslots, setSelectedTimeslots] = useState([]);
     const [hoveredCourseCode, setHoveredCourseCode] = useState(null);
-    const toggleCourseSelection = (courseCode, day, group, from, to) => {
-        const courseIdentifier = `${courseCode}-${day}-${group}-${from}-${to}`;
-        setSelectedCourses((prevSelectedCourses) => {
+    const [mustBeSelectedTimeslots, setMustBeSelectedTimeslots] = useState([]);
+
+
+    const updateMustBeSelectedTimeslots = (selectedTimeslots) => {
+
+    }
+
+    const toggleTimeslotSelection = (courseCode, timeslotType, day, group, from, to) => {
+        const courseIdentifier = getTimeslotIdentifier(courseCode, timeslotType, day, group, from, to);
+        setSelectedTimeslots((prevSelectedTimeslots) => {
             // Check if the course is already selected
-            if (prevSelectedCourses.includes(courseIdentifier)) {
+            if (prevSelectedTimeslots.includes(courseIdentifier)) {
                 // If selected, remove it from the list
-                return prevSelectedCourses.filter((code) => code !== courseIdentifier);
+                return prevSelectedTimeslots.filter((code) => code !== courseIdentifier);
             } else {
-                // If not selected, add it to the list
-                return [...prevSelectedCourses, courseIdentifier];
+                // Only one lecture/tut of a course can be selected
+                prevSelectedTimeslots = prevSelectedTimeslots.filter((timeslotIdentifier) => {
+                    const [code, type] = timeslotIdentifier.split('-');
+                    return code !== courseCode || (code === courseCode && type !== timeslotType);
+                });
+                
+
+                return [...prevSelectedTimeslots, courseIdentifier];
             }
         });
+
     };
 
     const getSameCodeCourses = (courseCode) => {
         return coursesTimeslots.filter((course) => course.courseCode === courseCode);
     };
     const coursesTimeslots =  props.timeslots;
+
+    const getTimeslotIdentifier = (courseCode, timeslotType, timeslotDay, timeslotGroup, timeslotFrom, timeslotTo) => {
+        return `${courseCode}-${timeslotType}-${timeslotDay}-${timeslotGroup}-${timeslotFrom}-${timeslotTo}`;
+    };
     
 
     const daysOfWeek = ['Saturday','Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
@@ -47,8 +65,8 @@ function TimeTable(props) {
                             </thead>
                             <tbody name={`${day.toLowerCase()}-timeslots`}>
                                 {coursesTimeslots.map((timeslot) => {
-                                    const courseIdentifier = `${timeslot.courseCode}-${timeslot.timeslotDay}-${timeslot.timeslotGroup}-${timeslot.timeslotFrom}-${timeslot.timeslotTo}`;
-                                    const isSelected = selectedCourses.includes(courseIdentifier);
+                                    const courseIdentifier = getTimeslotIdentifier(timeslot.courseCode, timeslot.timslotType, timeslot.timeslotDay, timeslot.timeslotGroup, timeslot.timeslotFrom, timeslot.timeslotTo);
+                                    const isSelected = selectedTimeslots.includes(courseIdentifier);
                                     const isTutorial = timeslot.timslotType === 'Tutorial';
                                     const backgroundColor = isSelected ? '#22FF22' : isTutorial ? '#c4fdff' : '#ffff01';
                                     const isHovered = hoveredCourseCode === timeslot.courseCode;
@@ -74,13 +92,13 @@ function TimeTable(props) {
                                                     style={courseCellStyle}
                                                     className={`${styles['table-cell']} ${isSelected ? styles['selected-course'] : ''}`}
                                                     onClick={() =>
-                                                        toggleCourseSelection(
+                                                        toggleTimeslotSelection(
                                                             timeslot.courseCode,
+                                                            timeslot.timslotType,
                                                             timeslot.timeslotDay,
                                                             timeslot.timeslotGroup,
                                                             timeslot.timeslotFrom,
                                                             timeslot.timeslotTo,
-                                                            timeslot.timeslotSize
                                                         )
                                                     }
                                                 >
