@@ -587,10 +587,381 @@
       "timeFrom8am": 8,
       "duration": 3,
       "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills",
+      "timeslotGroup": 3,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills",
+      "timeslotGroup": 4,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS005",
+      "courseName": "Writing and Presentation Skills",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENN210",
+      "courseName": "Risk Management and Environment",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment",
+      "timeslotGroup": 3,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment",
+      "timeslotGroup": 4,
+      "timslotType": "Lecture",
+      "timeslotDay": "Thursday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment",
+      "timeslotGroup": 5,
+      "timslotType": "Lecture",
+      "timeslotDay": "Thursday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment",
+      "timeslotGroup": 6,
+      "timslotType": "Lecture",
+      "timeslotDay": "Thursday",
+      "timeslotFrom": "14:00",
+      "timeslotTo": "16:00",
+      "timeFrom8am": 6,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting",
+      "timeslotGroup": 3,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting",
+      "timeslotGroup": 4,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting",
+      "timeslotGroup": 5,
+      "timslotType": "Lecture",
+      "timeslotDay": "Thursday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting",
+      "timeslotGroup": 6,
+      "timslotType": "Lecture",
+      "timeslotDay": "Thursday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS202",
+      "courseName": "Advanced Critical Thinking",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS203",
+      "courseName": "Entrepreneurship",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS206",
+      "courseName": "Technical Writing in Arabic",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS207",
+      "courseName": "Foreign Language (Spanish)",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS207",
+      "courseName": "Foreign Language (Spanish)",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS208",
+      "courseName": "Marketing",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS208",
+      "courseName": "Marketing",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS208",
+      "courseName": "Marketing",
+      "timeslotGroup": 3,
+      "timslotType": "Lecture",
+      "timeslotDay": "Tuesday",
+      "timeslotFrom": "14:00",
+      "timeslotTo": "16:00",
+      "timeFrom8am": 6,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS209",
+      "courseName": "Selections of Life Long Skills",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS209",
+      "courseName": "Selections of Life Long Skills",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Thursday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS235",
+      "courseName": "Business Communication",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "14:00",
+      "timeslotTo": "16:00",
+      "timeFrom8am": 6,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS236",
+      "courseName": "Service Management",
+      "timeslotGroup": 1,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "9:00",
+      "timeslotTo": "11:00",
+      "timeFrom8am": 1,
+      "duration": 2,
+      "timeslotSize": 10
+    },
+    {
+      "courseCode": "GENS236",
+      "courseName": "Service Management",
+      "timeslotGroup": 2,
+      "timslotType": "Lecture",
+      "timeslotDay": "Sunday",
+      "timeslotFrom": "11:00",
+      "timeslotTo": "13:00",
+      "timeFrom8am": 3,
+      "duration": 2,
+      "timeslotSize": 10
     }
   ],
   "courses": [
-    { "courseCode": "CMPN425", "courseName": "Computer System Consultation" },
     {
       "courseCode": "CMPN451",
       "courseName": "Data Mining, Big Data and Data Analytics"
@@ -599,28 +970,57 @@
       "courseCode": "ELCN316",
       "courseName": "Communications-2 Digital Communications"
     },
-    { "courseCode": "CMPN403", "courseName": "Languages and Compilers" },
     {
-      "courseCode": "PHYN212",
-      "courseName": "Electromagnetics for Computer Engineering"
+      "courseCode": "ELCN201",
+      "courseName": "Electronics-2 Analog and Digital Electronics"
     },
+    {
+      "courseCode": "GENS005",
+      "courseName": "Writing and Presentation Skills"
+    },
+    { "courseCode": "GENS208", "courseName": "Marketing" },
+    { "courseCode": "GENS209", "courseName": "Selections of Life Long Skills" },
+    { "courseCode": "GENS203", "courseName": "Entrepreneurship" },
+    { "courseCode": "GENS202", "courseName": "Advanced Critical Thinking" },
+    { "courseCode": "GENS235", "courseName": "Business Communication" },
+    { "courseCode": "GENS236", "courseName": "Service Management" },
+    { "courseCode": "CCEN481", "courseName": "Graduation Project-2" },
+    {
+      "courseCode": "GENN210",
+      "courseName": "Risk Management and Environment"
+    },
+    { "courseCode": "CMPN415", "courseName": "Computer Networks-2" },
+    {
+      "courseCode": "GENS110",
+      "courseName": "Fundamentals of Management, Risk & Environment"
+    },
+    {
+      "courseCode": "CMPN306",
+      "courseName": "Advanced Programming Techniques"
+    },
+    { "courseCode": "CMPN426", "courseName": "Computer System Security" },
+    {
+      "courseCode": "GENS120",
+      "courseName": "Fundamentals of Economics and Accounting"
+    },
+    { "courseCode": "GENS206", "courseName": "Technical Writing in Arabic" },
+    { "courseCode": "CMPN425", "courseName": "Computer System Consultation" },
+    { "courseCode": "ELCN304", "courseName": "Control-1" },
+    { "courseCode": "CCEN380", "courseName": "Seminar for CCE" },
     {
       "courseCode": "CMPN450",
       "courseName": "Pattern Recognition and Artificial Neural Networks"
     },
     { "courseCode": "CMPN301", "courseName": "Computer Architecture" },
-    { "courseCode": "CMPN426", "courseName": "Computer System Security" },
     {
-      "courseCode": "ELCN201",
-      "courseName": "Electronics-2 Analog and Digital Electronics"
+      "courseCode": "PHYN212",
+      "courseName": "Electromagnetics for Computer Engineering"
     },
-    { "courseCode": "CMPN415", "courseName": "Computer Networks-2" },
-    { "courseCode": "CCEN481", "courseName": "Graduation Project-2" },
+    { "courseCode": "CMPN403", "courseName": "Languages and Compilers" },
+    { "courseCode": "GENS207", "courseName": "Foreign Language (Spanish)" },
     {
-      "courseCode": "CMPN306",
-      "courseName": "Advanced Programming Techniques"
-    },
-    { "courseCode": "ELCN304", "courseName": "Control-1" },
-    { "courseCode": "CCEN380", "courseName": "Seminar for CCE" }
+      "courseCode": "GENN201",
+      "courseName": "Communication and Presentation Skills"
+    }
   ]
 }
