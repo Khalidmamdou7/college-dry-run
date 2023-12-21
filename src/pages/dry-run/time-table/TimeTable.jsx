@@ -8,8 +8,63 @@ function TimeTable(props) {
     const [mustBeSelectedTimeslots, setMustBeSelectedTimeslots] = useState([]);
 
 
-    const updateMustBeSelectedTimeslots = (selectedTimeslots) => {
+    const updateMustBeSelectedTimeslots = (courseCode, timeslotType) => {
+        if (!isCourseTimeslotsSelected(courseCode) || isBothLectureAndTutorialSelected(courseCode)) {
+            setMustBeSelectedTimeslots((prevMustBeSelectedTimeslots) => {
+                // Remove the timeslots of the same course and same type
+                return prevMustBeSelectedTimeslots.filter((timeslotId) => {
+                    const [code] = timeslotId.split('-');
+                    return code !== courseCode
+                });
+            })
+        }
 
+        setMustBeSelectedTimeslots((prevMustBeSelectedTimeslots) => {
+            // Remove the timeslots of the same course and same type
+            return prevMustBeSelectedTimeslots.filter((timeslotId) => {
+                const [code, type] = timeslotId.split('-');
+                return code !== courseCode && type === timeslotType;
+            });
+        });
+
+        if (!isOtherTypeTimeslotSelected(courseCode, timeslotType)) {
+            let otherTypeTimeslotsIds = getOtherTypeTimeslotsIds(courseCode, timeslotType);
+            setMustBeSelectedTimeslots((prevMustBeSelectedTimeslots) => {
+                return [...prevMustBeSelectedTimeslots, ...otherTypeTimeslotsIds];
+            });
+        }
+    }
+
+    const isCourseTimeslotsSelected = (courseCode) => {
+        console.log(getOtherTypeTimeslotsIds(courseCode, 'Lecture'))
+        console.log(getOtherTypeTimeslotsIds(courseCode, 'Tutorial'))
+        let courseTimeslotsIds = [...getOtherTypeTimeslotsIds(courseCode, 'Lecture'), ...getOtherTypeTimeslotsIds(courseCode, 'Tutorial')];
+        console.log(typeof(courseTimeslotsIds))
+        console.log(courseTimeslotsIds)
+        return courseTimeslotsIds.some((timeslotId) => selectedTimeslots.includes(timeslotId));
+    }
+
+    const isBothLectureAndTutorialSelected = (courseCode) => {
+        let lectureTimeslotsIds = getOtherTypeTimeslotsIds(courseCode, 'Lecture');
+        let tutorialTimeslotsIds = getOtherTypeTimeslotsIds(courseCode, 'Tutorial');
+        // check if both lecture and tutorial are selected
+        return lectureTimeslotsIds.every((timeslotId) => selectedTimeslots.includes(timeslotId)) &&
+            tutorialTimeslotsIds.every((timeslotId) => selectedTimeslots.includes(timeslotId));
+    }
+
+    const isOtherTypeTimeslotSelected = (courseCode, timeslotType) => {
+        let otherTypeTimeslotsIds = getOtherTypeTimeslotsIds(courseCode, timeslotType);
+        // check if any of the other type timeslots are selected or there is no other type timeslot
+        return otherTypeTimeslotsIds.some((timeslotId) => selectedTimeslots.includes(timeslotId));
+    }
+
+    const getOtherTypeTimeslotsIds = (courseCode, timeslotType) => {
+        let sameCourseTimeslots = getSameCodeCourses(courseCode);
+        const otherTypeTimeslots = sameCourseTimeslots.filter((timeslot) => timeslot.timslotType !== timeslotType);
+        const otherTypeTimeslotsIds = otherTypeTimeslots.map((timeslot) => {
+            return getTimeslotIdentifier(timeslot.courseCode, timeslot.timslotType, timeslot.timeslotDay, timeslot.timeslotGroup, timeslot.timeslotFrom, timeslot.timeslotTo);
+        });
+        return otherTypeTimeslotsIds;
     }
 
     const toggleTimeslotSelection = (courseCode, timeslotType, day, group, from, to) => {
@@ -17,19 +72,20 @@ function TimeTable(props) {
         setSelectedTimeslots((prevSelectedTimeslots) => {
             // Check if the course is already selected
             if (prevSelectedTimeslots.includes(courseIdentifier)) {
-                // If selected, remove it from the list
+
                 return prevSelectedTimeslots.filter((code) => code !== courseIdentifier);
             } else {
+
                 // Only one lecture/tut of a course can be selected
                 prevSelectedTimeslots = prevSelectedTimeslots.filter((timeslotIdentifier) => {
                     const [code, type] = timeslotIdentifier.split('-');
                     return code !== courseCode || (code === courseCode && type !== timeslotType);
                 });
                 
-
                 return [...prevSelectedTimeslots, courseIdentifier];
             }
         });
+        updateMustBeSelectedTimeslots(courseCode, timeslotType);
 
     };
 

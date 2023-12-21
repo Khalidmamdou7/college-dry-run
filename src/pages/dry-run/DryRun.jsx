@@ -27,7 +27,8 @@ function DryRun() {
                     <div className={styles['time-table-container']} >
                         <TimeTable timeslots={timeslots} />
                     </div>
-                    <p>Based on the latest Registration Status Report Data: 10:30 pm 17/9</p>
+                    <p>Based on the data sent on pdfs at 21/12/2023</p>
+                    <p>Special thanks to Yousif Ismail for collecting the data</p>
                 </div>
                 <div className={styles['courses-selector-container']}>
                     <CourseSelector handleCoursesChange={handleCoursesChange} />
