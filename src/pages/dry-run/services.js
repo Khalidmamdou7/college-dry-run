@@ -1,4 +1,4 @@
-import data from '../../data/cleaned-reg-stat-f23.json';
+import data from '../../data/reg-stat-data.json';
 
 async function readTimeslots() {
     return data['timeslots']
