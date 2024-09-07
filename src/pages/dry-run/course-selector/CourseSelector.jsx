@@ -42,6 +42,7 @@ function CourseSelector(props) {
         <div className={styles['container']}>
             <div className={styles['header']}>
                 <h2>Course Selector</h2>
+                <p>Add courses to the timetable</p>
                 <input type="text" placeholder="Search for courses" value={search} onChange={handleSearchChange} className='form-control' />
                 <div className={styles['search-results']}>
                     <table className="table table-striped table-hover">
