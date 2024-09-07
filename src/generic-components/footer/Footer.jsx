@@ -1,11 +1,11 @@
 import styles from "./Footer.module.css";
+import { DATA_TIMESTAMP } from "../../config";
 
 
 export default function Footer() {
-    const dataTimestamp = "07/09/2024 00:48 AM";
 	return (
 		<div className={styles["landing-page-footer"]}>
-			<p>Based on registration status report {dataTimestamp}</p>
+			<p>Based on registration status report {DATA_TIMESTAMP}</p>
 			<p>
 				Developed by{" "}
 				<a href="https://www.linkedin.com/in/khalidmamdou7/" target="_blank" rel="noreferrer">
