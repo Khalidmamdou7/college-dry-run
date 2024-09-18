@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '*/60 * * * *' # Runs every 1 hour
+    - cron: '0 0 * * 0' # Runs once a week on Sunday at 00:00 UTC
   push:
     branches:
       - main
